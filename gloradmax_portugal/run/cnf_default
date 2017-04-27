@@ -1,0 +1,51 @@
+########################################################################
+# Computational settings
+trap_fpe=true
+#multithread=false
+number_of_threads=1
+singlethread_if_less_than=1
+########################################################################
+# Declaration of models (id and group)
+table_objectDeclaration=../data/catchment/objDecl.dat
+########################################################################
+# Definition of the simulation time window
+simStart=2014-04-29 22:00:00
+simEnd=2014-07-01 05:00:00
+delta_t=3600
+########################################################################
+# Specification of model outputs
+table_selectedOutput=output_selection.txt
+table_debugOutput=output_debug.txt
+table_stateOutput=output_state.txt
+output_columnSeparator=	
+output_lineComment=#
+#outputDirectory=./out/
+outputFormat=tab
+saveFinalState=true
+########################################################################
+# Special characters in all input files (except for this control file)
+input_columnSeparator=	 ;
+input_lineComment=#
+########################################################################
+# Initial values
+table_initialValues_scal=../data/initials/init_scal.dat
+table_initialValues_vect=../data/initials/init_vect.dat
+########################################################################
+# Boundary conditions
+table_inputOutputRelations=../data/catchment/objLink.dat
+externalInput_bufferSize=1
+table_externalInput_locations=../data/forcing/inputs_ext_locations.dat
+table_externalInput_datafiles=../data/forcing/inputs_ext_datafiles.dat
+########################################################################
+# Class-specific input files
+########################################################################
+# dummy parameters
+dummy_numParamsIndividual=../data/parameter/dummy_num.dat
+dummy_funParamsIndividual=../data/parameter/dummy_fun.dat
+dummy_numParamsShared=../data/parameter/dummy_num.dat
+dummy_funParamsShared=../data/parameter/dummy_fun.dat
+# gloradmax_portugal parameters
+gloradmax_portugal_numParamsIndividual=../data/parameter/paramNum_WASA_svc.dat
+gloradmax_portugal_funParamsIndividual=../data/parameter/dummy_fun.dat
+gloradmax_portugal_numParamsShared=../data/parameter/sharedParamNum_WASA_svc.dat
+gloradmax_portugal_funParamsShared=../data/parameter/dummy_fun.dat

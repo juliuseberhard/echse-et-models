@@ -1,0 +1,37 @@
+UTC	event
+2017-01-13 12:45:26	Logging started.
+2017-01-13 12:45:26	Range checks in data access functions: DISABLED
+2017-01-13 12:45:26	Reading configuration data
+2017-01-13 12:45:26	Querying frequently used control data
+2017-01-13 12:45:26	Setting number of threads
+2017-01-13 12:45:26	Number of threads (if >=1 parallel objects): 1
+2017-01-13 12:45:26	Instantiating object groups
+2017-01-13 12:45:26	Instantiating objects
+2017-01-13 12:45:26	Initializing object outputs
+2017-01-13 12:45:26	Switching on debug mode for selected objects
+2017-01-13 12:45:26	Setting times of state output
+2017-01-13 12:45:26	Assigning simulated inputs to objects (object linkage)
+2017-01-13 12:45:26	Setting object levels
+2017-01-13 12:45:26	Setting up processing tree for selected objects
+2017-01-13 12:45:26	Levels for (optional) parallel processing: 2
+2017-01-13 12:45:26	Reading tables of individual parameter functions
+2017-01-13 12:45:26	Initializing individual parameter functions
+2017-01-13 12:45:26	Clearing tables of individual parameter functions
+2017-01-13 12:45:26	Reading tables of individual scalar parameters
+2017-01-13 12:45:26	Initializing individual scalar parameters
+2017-01-13 12:45:26	Clearing tables of individual scalar parameters
+2017-01-13 12:45:26	Setting shared parameter functions
+2017-01-13 12:45:26	Setting shared scalar parameters
+2017-01-13 12:45:26	Initializing time series of external variables
+2017-01-13 12:45:26	Assigning external time series to objects
+2017-01-13 12:45:26	Setting initial values of scalar state variables
+2017-01-13 12:45:26	Setting initial values of vector state variables
+2017-01-13 12:45:26	Initializing simulation time
+2017-01-13 12:45:26	Simulation started
+2017-01-13 12:45:26	01% done.  Computing time remaining: 0h 00m 00s 
+2017-01-13 12:45:26	02% done.  Computing time remaining: 0h 00m 00s 
+2017-01-13 12:45:26	05% done.  Computing time remaining: 0h 00m 00s 
+2017-01-13 12:45:26	10% done.  Computing time remaining: 0h 00m 00s 
+2017-01-13 12:45:26	20% done.  Computing time remaining: 0h 00m 00s 
+2017-01-13 12:45:27	50% done.  Computing time remaining: 0h 00m 01s 
+2017-01-13 12:45:27	Stopped due to exception. See traceback for details.

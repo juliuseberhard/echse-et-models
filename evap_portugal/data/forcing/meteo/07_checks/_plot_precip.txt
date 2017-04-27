@@ -1,0 +1,4 @@
+file	colname	color	type	name	header	comment	nodata	factor	xcut
+
+../05_meteofill/out/precip_data.dat	157	red  S precip_interpol      TRUE # -9999 1 FALSE
+../01_dbExport/out/precip_data.dat	157	black  S precip_raw      TRUE # -9999 1 FALSE 

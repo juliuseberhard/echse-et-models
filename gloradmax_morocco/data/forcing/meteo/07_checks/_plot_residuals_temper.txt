@@ -1,0 +1,12 @@
+file	colname	color	type	name	header	comment	nodata	factor	xcut
+
+../06_residuals/out/temper_resid.dat	82397	blue  S 82397      TRUE # NA 1 FALSE
+../06_residuals/out/temper_resid.dat	82487	red  S 82487      TRUE # NA 1 FALSE
+../06_residuals/out/temper_resid.dat	82493	green  S 82493      TRUE # NA 1 FALSE
+../06_residuals/out/temper_resid.dat	82583	yellow  S 82583      TRUE # NA 1 FALSE
+../06_residuals/out/temper_resid.dat	82586	orange  S 82586      TRUE # NA 1 FALSE
+../06_residuals/out/temper_resid.dat	82588	orange  S 82588      TRUE # NA 1 FALSE
+../06_residuals/out/temper_resid.dat	82683	purple  S 82683      TRUE # NA 1 FALSE
+../06_residuals/out/temper_resid.dat	82686	black  S 82686      TRUE # NA 1 FALSE
+../06_residuals/out/temper_resid.dat	82777	magenta  S 82777      TRUE # NA 1 FALSE
+../06_residuals/out/temper_resid.dat	82784	turquoise  S 82784      TRUE # NA 1 FALSE

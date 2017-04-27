@@ -1,0 +1,2 @@
+object	wc_sat	wc_pwp	wc_res	wc_etmax	bubble	pores_ind	wstressmin	wstressmax	par_stressHum	lat	lon	elev	  crop_makk	crop_faoref	res_leaf_min	soil_dens	glo_half 
+test1	0.5	0.1	0.0	0.35	50	4	10	100	0.03	39.140	8.333	100	0.8	1	150	1450	200

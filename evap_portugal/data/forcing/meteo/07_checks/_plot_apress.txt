@@ -1,0 +1,4 @@
+file	colname	color	type	name	header	comment	nodata	factor	xcut
+
+../05_meteofill/out/apress_data.dat	82686	red  S apress_interpol      TRUE # -9999 1 FALSE
+../02_adjust_timesteps/out/apress_data.dat	82686	black  S apress_raw      TRUE # -9999 1 FALSE 

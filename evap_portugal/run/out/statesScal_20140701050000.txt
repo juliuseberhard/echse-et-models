@@ -1,0 +1,3 @@
+# Values of scalar state variables at: 2014-07-01 05:00:00
+object	variable	value
+test1	s_longrad	-9999

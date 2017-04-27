@@ -1,0 +1,8 @@
+parameter	value
+choice_gloradmax	 1.0000000      
+emis_a          	 0.3400000      
+emis_b          	-0.1400000      
+fcorr_a         	 1.3500000      
+fcorr_b         	-0.3500000      
+radex_a         	 0.2162991      
+radex_b         	 0.4977448      

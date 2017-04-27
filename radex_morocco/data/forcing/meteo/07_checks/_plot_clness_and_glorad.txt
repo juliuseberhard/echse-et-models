@@ -1,0 +1,7 @@
+file	colname	color	type	name	header	comment	nodata	factor	xcut
+
+;Note: Radiation is scaled by 1/250 to produce maximum y-values of about unity
+
+../03_meteofill/out/glorad_data.txt	9	yellow  S glorad      TRUE # NA 0.004 FALSE
+../05_cloudiness/out/clness_data_daily.txt	9	black  S clness      TRUE # NA 1 FALSE
+

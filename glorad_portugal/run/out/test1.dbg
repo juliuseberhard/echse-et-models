@@ -1,0 +1,26 @@
+end_of_interval	type_of_item	item_name	index	value
+2014-06-27 18:00:00	inputExt	cloud	0	-9.999e+03
+2014-06-27 18:00:00	inputExt	doy	0	1.780e+02
+2014-06-27 18:00:00	inputExt	sundur	0	1.250e+01
+2014-06-27 18:00:00	inputSim	dummy	0	0.000e+00
+2014-06-27 18:00:00	output	glorad_out	0	3.440e+02
+2014-06-28 18:00:00	inputExt	cloud	0	-9.999e+03
+2014-06-28 18:00:00	inputExt	doy	0	1.790e+02
+2014-06-28 18:00:00	inputExt	sundur	0	1.250e+01
+2014-06-28 18:00:00	inputSim	dummy	0	0.000e+00
+2014-06-28 18:00:00	output	glorad_out	0	3.439e+02
+2014-06-29 18:00:00	inputExt	cloud	0	-9.999e+03
+2014-06-29 18:00:00	inputExt	doy	0	1.800e+02
+2014-06-29 18:00:00	inputExt	sundur	0	1.300e+01
+2014-06-29 18:00:00	inputSim	dummy	0	0.000e+00
+2014-06-29 18:00:00	output	glorad_out	0	3.547e+02
+2014-06-30 18:00:00	inputExt	cloud	0	-9.999e+03
+2014-06-30 18:00:00	inputExt	doy	0	1.810e+02
+2014-06-30 18:00:00	inputExt	sundur	0	1.150e+01
+2014-06-30 18:00:00	inputSim	dummy	0	0.000e+00
+2014-06-30 18:00:00	output	glorad_out	0	3.218e+02
+2014-07-01 18:00:00	inputExt	cloud	0	-9.999e+03
+2014-07-01 18:00:00	inputExt	doy	0	1.820e+02
+2014-07-01 18:00:00	inputExt	sundur	0	1.250e+01
+2014-07-01 18:00:00	inputSim	dummy	0	0.000e+00
+2014-07-01 18:00:00	output	glorad_out	0	3.436e+02

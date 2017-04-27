@@ -1,0 +1,17 @@
+# Specification of files from which the models' external inputs is to be read.
+# For each external variable (used by any class), a single record is required.
+
+# 'variable': string - Name of the external input variable.
+# 'file':     string - File containing the time series data for that variable.
+# 'sums':     bool - Treat data as sums (not as averages) when disaggregating?
+# 'past':     bool - Do times refer to the end (not the start) of an interval?
+
+variable  sums  past  file
+
+alb  false  true  ../data/vegPar_time_series/NSA/alb_data.dat
+doy  false  true  ../data/vegPar_time_series/NSA/doy_data.dat
+glorad  false  true  ../data/forcing/meteo/05_meteofill/out/NSA/glorad_data.dat
+hour  false  true  ../data/vegPar_time_series/NSA/hour_data.dat
+rhum  false  true  ../data/forcing/meteo/05_meteofill/out/NSA/rhum_data.dat
+temper  false  true  ../data/forcing/meteo/05_meteofill/out/NSA/temper_data.dat
+utc_add  false  true  ../data/vegPar_time_series/NSA/utc_add_data.dat

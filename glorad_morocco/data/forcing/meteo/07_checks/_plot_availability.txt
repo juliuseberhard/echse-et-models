@@ -1,0 +1,9 @@
+file	colname	color	type	name	header	comment	nodata	factor	xcut
+
+../05_meteofill/out/precip.log	availability	blue  S precip      TRUE # NA 1 FALSE
+../05_meteofill/out/apress.log	availability	black  S apress      TRUE # NA 1 FALSE
+../05_meteofill/out/temper.log	availability	red  S temper      TRUE # NA 1 FALSE
+../05_meteofill/out/rhum.log	availability	cyan  S rhum      TRUE # NA 1 FALSE
+../05_meteofill/out/wind.log	availability	grey  S wind      TRUE # NA 1 FALSE
+../05_meteofill/out/sundur.log	availability	yellow  S sundur      TRUE # NA 1 FALSE
+

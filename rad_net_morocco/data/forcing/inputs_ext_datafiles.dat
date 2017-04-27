@@ -1,0 +1,42 @@
+
+# Specification of files from which the models' external inputs is to be read.
+# For each external variable (used by any class), a single record is required.
+
+# 'variable': string - Name of the external input variable.
+# 'file':     string - File containing the time series data for that variable.
+# 'sums':     bool - Treat data as sums (not as averages) when disaggregating?
+# 'past':     bool - Do times refer to the end (not the start) of an interval? 
+
+variable      sums     past    file
+
+# Meteorological inputs
+wc_vol_top    false    true    ../data/forcing/meteo/05_meteofill/out/wc_vol_top_data.dat
+wc_vol_root   false    true    ../data/forcing/meteo/05_meteofill/out/wc_vol_root_data.dat
+temper        false    true    ../data/forcing/meteo/05_meteofill/out/temper_data.dat
+glorad        false    true    ../data/forcing/meteo/05_meteofill/out/glorad_data.dat
+rhum          false    true    ../data/forcing/meteo/05_meteofill/out/rhum_data.dat
+wind          false    true    ../data/forcing/meteo/05_meteofill/out/wind_data.dat
+apress        false    true    ../data/forcing/meteo/05_meteofill/out/apress_data.dat
+soilheat      false    true    ../data/forcing/meteo/05_meteofill/out/soilheat_data.dat
+
+# Vegetation parameters
+cano_height   false    true    ../data/vegPar_time_series/veg_cano_height_data.dat
+lai           false    true    ../data/vegPar_time_series/veg_lai_data.dat
+alb           false    true    ../data/vegPar_time_series/veg_alb_data.dat
+
+# Time (Julian day)
+doy           false    false    ../data/vegPar_time_series/doy_data.dat
+hour	      false    false    ../data/vegPar_time_series/hour_data.dat
+utc_add	      false    true    ../data/vegPar_time_series/utc_add_data.dat
+
+# dummy (no available data)
+temp_min      false    true    ../data/forcing/meteo/dummy_ts.dat
+temp_max      false    true    ../data/forcing/meteo/dummy_ts.dat
+sundur        true     true    ../data/forcing/meteo/dummy_ts.dat
+cloud         false    true    ../data/forcing/meteo/dummy_ts.dat
+radex         false    false   ../data/forcing/meteo/dummy_ts.dat
+glorad_max    false    true    ../data/forcing/meteo/dummy_ts.dat
+rad_net	      false    true    ../data/forcing/meteo/dummy_ts.dat
+rad_net_soil  false    true    ../data/forcing/meteo/dummy_ts.dat
+rad_long      false    true    ../data/forcing/meteo/dummy_ts.dat
+totalheat     false    true    ../data/forcing/meteo/dummy_ts.dat

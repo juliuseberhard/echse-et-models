@@ -1,0 +1,8 @@
+parameter	value
+choice_et        	11               
+choice_gloradmax 	1                
+ext              	0.4              
+f_day            	0.1              
+f_night          	0.7              
+radex_a          	0.142132230258045
+radex_b          	0.673290097072678
