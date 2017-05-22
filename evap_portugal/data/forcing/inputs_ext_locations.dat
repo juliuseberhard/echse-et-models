@@ -4,11 +4,11 @@ test1       	apress      	Met         	1
 test1       	cano_height 	HS          	1           
 test1       	cloud       	dummy       	1           
 test1       	doy         	any         	1           
-test1       	glorad      	Met         	1           
+test1       	glorad      	HS          	1           
 test1       	glorad_max  	dummy       	1           
 test1       	hour        	any         	1           
 test1       	lai         	HS          	1           
-test1       	rad_long    	dummy       	1           
+test1       	rad_long    	any         	1           
 test1       	rad_net     	HS          	1           
 test1       	rad_net_soil	dummy       	1           
 test1       	radex       	dummy       	1           

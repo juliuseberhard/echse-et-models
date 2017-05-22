@@ -17,7 +17,7 @@ glorad  false  true  ../data/forcing/meteo/05_meteofill/out/HS/glorad_data.dat
 glorad_max  false  true  ../data/forcing/meteo/dummy_ts.dat
 hour  false  true  ../data/vegPar_time_series/HS/hour_data.dat
 lai  false  true  ../data/vegPar_time_series/HS/lai_data.dat
-rad_long  false  true  ../data/forcing/meteo/dummy_ts.dat
+rad_long  false  true  ../data/forcing/meteo/05_meteofill/out/HS/rad_long_data.dat
 rad_net  false  true  ../data/forcing/meteo/05_meteofill/out/HS/rad_net_data.dat
 rad_net_soil  false  true  ../data/forcing/meteo/dummy_ts.dat
 radex  false  true  ../data/forcing/meteo/dummy_ts.dat
