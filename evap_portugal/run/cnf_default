@@ -9,8 +9,8 @@ singlethread_if_less_than=1
 table_objectDeclaration=../data/catchment/objDecl.dat
 ########################################################################
 # Definition of the simulation time window
-simStart=2014-06-26 18:00:00
-simEnd=2014-07-01 05:00:00
+simStart=2014-04-29 21:00:00
+simEnd=2014-05-04 13:00:00
 delta_t=3600
 ########################################################################
 # Specification of model outputs

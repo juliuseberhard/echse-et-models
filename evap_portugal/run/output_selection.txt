@@ -10,4 +10,4 @@
 
 object    variable  digits
 
-test1     eta       10
+test1     etp       10
