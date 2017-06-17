@@ -7,12 +7,12 @@ choice_roughLen  	2
 drag_coef        	0.07             
 eddy_decay       	2.5              
 emis_a           	0.34             
-emis_b           	-0.25            
+emis_b           	-0.14            
 ext              	0.4              
-f_day            	0.140536170056232
-f_night          	0.518292330439396
-fcorr_a          	0.743562315724183
-fcorr_b          	0.256437684275817
+f_day            	0.289168049517683
+f_night          	0.52349234436883 
+fcorr_a          	0.738664647573369
+fcorr_b          	0.261335352426631
 h_humMeas        	2                
 h_tempMeas       	2                
 h_windMeas       	2                

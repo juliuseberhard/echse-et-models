@@ -1,6 +1,6 @@
 object	variable	location	weight
 test1       	alb         	HS          	1           
-test1       	apress      	Met         	1           
+test1       	apress      	tower       	1           
 test1       	cano_height 	HS          	1           
 test1       	cloud       	dummy       	1           
 test1       	doy         	any         	1           
@@ -12,7 +12,7 @@ test1       	rad_long    	HS          	1
 test1       	rad_net     	HS          	1           
 test1       	rad_net_soil	dummy       	1           
 test1       	radex       	dummy       	1           
-test1       	rhum        	Met         	1           
+test1       	rhum        	tower       	1           
 test1       	soilheat    	HS          	1           
 test1       	sundur      	dummy       	1           
 test1       	temp_max    	dummy       	1           
