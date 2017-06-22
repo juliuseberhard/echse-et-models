@@ -8,7 +8,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-29 23:00:00	inputExt	temper	0	1.407e+01
 2014-04-29 23:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-29 23:00:00	inputSim	dummy	0	0.000e+00
-2014-04-29 23:00:00	output	rad_net_out	0	-1.748e+01
+2014-04-29 23:00:00	output	rad_net_out	0	-1.781e+01
 2014-04-30 00:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 00:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 00:00:00	inputExt	doy	0	1.200e+02
@@ -18,7 +18,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 00:00:00	inputExt	temper	0	1.350e+01
 2014-04-30 00:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 00:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 00:00:00	output	rad_net_out	0	-2.058e+01
+2014-04-30 00:00:00	output	rad_net_out	0	-2.097e+01
 2014-04-30 01:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 01:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 01:00:00	inputExt	doy	0	1.200e+02
@@ -28,7 +28,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 01:00:00	inputExt	temper	0	1.272e+01
 2014-04-30 01:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 01:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 01:00:00	output	rad_net_out	0	-1.750e+01
+2014-04-30 01:00:00	output	rad_net_out	0	-1.783e+01
 2014-04-30 02:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 02:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 02:00:00	inputExt	doy	0	1.200e+02
@@ -38,7 +38,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 02:00:00	inputExt	temper	0	1.232e+01
 2014-04-30 02:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 02:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 02:00:00	output	rad_net_out	0	-1.729e+01
+2014-04-30 02:00:00	output	rad_net_out	0	-1.763e+01
 2014-04-30 03:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 03:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 03:00:00	inputExt	doy	0	1.200e+02
@@ -48,7 +48,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 03:00:00	inputExt	temper	0	1.235e+01
 2014-04-30 03:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 03:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 03:00:00	output	rad_net_out	0	-1.711e+01
+2014-04-30 03:00:00	output	rad_net_out	0	-1.744e+01
 2014-04-30 04:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 04:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 04:00:00	inputExt	doy	0	1.200e+02
@@ -58,7 +58,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 04:00:00	inputExt	temper	0	1.218e+01
 2014-04-30 04:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 04:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 04:00:00	output	rad_net_out	0	-1.704e+01
+2014-04-30 04:00:00	output	rad_net_out	0	-1.737e+01
 2014-04-30 05:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 05:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 05:00:00	inputExt	doy	0	1.200e+02
@@ -68,7 +68,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 05:00:00	inputExt	temper	0	1.247e+01
 2014-04-30 05:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 05:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 05:00:00	output	rad_net_out	0	-1.716e+01
+2014-04-30 05:00:00	output	rad_net_out	0	-1.749e+01
 2014-04-30 06:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 06:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 06:00:00	inputExt	doy	0	1.200e+02
@@ -78,7 +78,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 06:00:00	inputExt	temper	0	1.423e+01
 2014-04-30 06:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 06:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 06:00:00	output	rad_net_out	0	-4.377e+01
+2014-04-30 06:00:00	output	rad_net_out	0	-4.378e+01
 2014-04-30 07:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 07:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 07:00:00	inputExt	doy	0	1.200e+02
@@ -88,7 +88,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 07:00:00	inputExt	temper	0	1.683e+01
 2014-04-30 07:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 07:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 07:00:00	output	rad_net_out	0	7.810e+01
+2014-04-30 07:00:00	output	rad_net_out	0	7.800e+01
 2014-04-30 08:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 08:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 08:00:00	inputExt	doy	0	1.200e+02
@@ -138,7 +138,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 12:00:00	inputExt	temper	0	2.457e+01
 2014-04-30 12:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 12:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 12:00:00	output	rad_net_out	0	7.846e+02
+2014-04-30 12:00:00	output	rad_net_out	0	7.845e+02
 2014-04-30 13:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 13:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 13:00:00	inputExt	doy	0	1.200e+02
@@ -148,7 +148,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 13:00:00	inputExt	temper	0	2.513e+01
 2014-04-30 13:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 13:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 13:00:00	output	rad_net_out	0	8.025e+02
+2014-04-30 13:00:00	output	rad_net_out	0	8.024e+02
 2014-04-30 14:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 14:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 14:00:00	inputExt	doy	0	1.200e+02
@@ -158,7 +158,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 14:00:00	inputExt	temper	0	2.507e+01
 2014-04-30 14:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 14:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 14:00:00	output	rad_net_out	0	7.543e+02
+2014-04-30 14:00:00	output	rad_net_out	0	7.542e+02
 2014-04-30 15:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 15:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 15:00:00	inputExt	doy	0	1.200e+02
@@ -168,7 +168,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 15:00:00	inputExt	temper	0	2.422e+01
 2014-04-30 15:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 15:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 15:00:00	output	rad_net_out	0	5.964e+02
+2014-04-30 15:00:00	output	rad_net_out	0	5.963e+02
 2014-04-30 16:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 16:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 16:00:00	inputExt	doy	0	1.200e+02
@@ -178,7 +178,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 16:00:00	inputExt	temper	0	2.315e+01
 2014-04-30 16:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 16:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 16:00:00	output	rad_net_out	0	3.899e+02
+2014-04-30 16:00:00	output	rad_net_out	0	3.897e+02
 2014-04-30 17:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 17:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 17:00:00	inputExt	doy	0	1.200e+02
@@ -188,7 +188,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 17:00:00	inputExt	temper	0	2.152e+01
 2014-04-30 17:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 17:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 17:00:00	output	rad_net_out	0	2.014e+02
+2014-04-30 17:00:00	output	rad_net_out	0	2.012e+02
 2014-04-30 18:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 18:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 18:00:00	inputExt	doy	0	1.200e+02
@@ -198,7 +198,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 18:00:00	inputExt	temper	0	1.898e+01
 2014-04-30 18:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 18:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 18:00:00	output	rad_net_out	0	5.564e+01
+2014-04-30 18:00:00	output	rad_net_out	0	5.534e+01
 2014-04-30 19:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 19:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 19:00:00	inputExt	doy	0	1.200e+02
@@ -208,7 +208,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 19:00:00	inputExt	temper	0	1.668e+01
 2014-04-30 19:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 19:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 19:00:00	output	rad_net_out	0	-8.428e+00
+2014-04-30 19:00:00	output	rad_net_out	0	-8.763e+00
 2014-04-30 20:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 20:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 20:00:00	inputExt	doy	0	1.200e+02
@@ -218,7 +218,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 20:00:00	inputExt	temper	0	1.510e+01
 2014-04-30 20:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 20:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 20:00:00	output	rad_net_out	0	-1.840e+01
+2014-04-30 20:00:00	output	rad_net_out	0	-1.875e+01
 2014-04-30 21:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 21:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 21:00:00	inputExt	doy	0	1.200e+02
@@ -228,7 +228,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 21:00:00	inputExt	temper	0	1.430e+01
 2014-04-30 21:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 21:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 21:00:00	output	rad_net_out	0	-1.770e+01
+2014-04-30 21:00:00	output	rad_net_out	0	-1.804e+01
 2014-04-30 22:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 22:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 22:00:00	inputExt	doy	0	1.200e+02
@@ -238,7 +238,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 22:00:00	inputExt	temper	0	1.387e+01
 2014-04-30 22:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 22:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 22:00:00	output	rad_net_out	0	-1.741e+01
+2014-04-30 22:00:00	output	rad_net_out	0	-1.774e+01
 2014-04-30 23:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-04-30 23:00:00	inputExt	alb	0	6.574e-02
 2014-04-30 23:00:00	inputExt	doy	0	1.200e+02
@@ -248,7 +248,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-04-30 23:00:00	inputExt	temper	0	1.338e+01
 2014-04-30 23:00:00	inputExt	utc_add	0	0.000e+00
 2014-04-30 23:00:00	inputSim	dummy	0	0.000e+00
-2014-04-30 23:00:00	output	rad_net_out	0	-1.738e+01
+2014-04-30 23:00:00	output	rad_net_out	0	-1.771e+01
 2014-05-01 00:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 00:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 00:00:00	inputExt	doy	0	1.210e+02
@@ -258,7 +258,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 00:00:00	inputExt	temper	0	1.292e+01
 2014-05-01 00:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 00:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 00:00:00	output	rad_net_out	0	-2.013e+01
+2014-05-01 00:00:00	output	rad_net_out	0	-2.052e+01
 2014-05-01 01:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 01:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 01:00:00	inputExt	doy	0	1.210e+02
@@ -268,7 +268,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 01:00:00	inputExt	temper	0	1.273e+01
 2014-05-01 01:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 01:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 01:00:00	output	rad_net_out	0	-1.728e+01
+2014-05-01 01:00:00	output	rad_net_out	0	-1.761e+01
 2014-05-01 02:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 02:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 02:00:00	inputExt	doy	0	1.210e+02
@@ -278,7 +278,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 02:00:00	inputExt	temper	0	1.298e+01
 2014-05-01 02:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 02:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 02:00:00	output	rad_net_out	0	-1.708e+01
+2014-05-01 02:00:00	output	rad_net_out	0	-1.740e+01
 2014-05-01 03:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 03:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 03:00:00	inputExt	doy	0	1.210e+02
@@ -288,7 +288,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 03:00:00	inputExt	temper	0	1.275e+01
 2014-05-01 03:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 03:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 03:00:00	output	rad_net_out	0	-1.714e+01
+2014-05-01 03:00:00	output	rad_net_out	0	-1.747e+01
 2014-05-01 04:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 04:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 04:00:00	inputExt	doy	0	1.210e+02
@@ -298,7 +298,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 04:00:00	inputExt	temper	0	1.270e+01
 2014-05-01 04:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 04:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 04:00:00	output	rad_net_out	0	-1.717e+01
+2014-05-01 04:00:00	output	rad_net_out	0	-1.750e+01
 2014-05-01 05:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 05:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 05:00:00	inputExt	doy	0	1.210e+02
@@ -308,7 +308,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 05:00:00	inputExt	temper	0	1.273e+01
 2014-05-01 05:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 05:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 05:00:00	output	rad_net_out	0	-1.726e+01
+2014-05-01 05:00:00	output	rad_net_out	0	-1.758e+01
 2014-05-01 06:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 06:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 06:00:00	inputExt	doy	0	1.210e+02
@@ -318,7 +318,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 06:00:00	inputExt	temper	0	1.410e+01
 2014-05-01 06:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 06:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 06:00:00	output	rad_net_out	0	-4.224e+01
+2014-05-01 06:00:00	output	rad_net_out	0	-4.229e+01
 2014-05-01 07:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 07:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 07:00:00	inputExt	doy	0	1.210e+02
@@ -328,7 +328,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 07:00:00	inputExt	temper	0	1.565e+01
 2014-05-01 07:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 07:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 07:00:00	output	rad_net_out	0	8.712e+01
+2014-05-01 07:00:00	output	rad_net_out	0	8.702e+01
 2014-05-01 08:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 08:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 08:00:00	inputExt	doy	0	1.210e+02
@@ -358,7 +358,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 10:00:00	inputExt	temper	0	2.152e+01
 2014-05-01 10:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 10:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 10:00:00	output	rad_net_out	0	6.945e+02
+2014-05-01 10:00:00	output	rad_net_out	0	6.944e+02
 2014-05-01 11:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 11:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 11:00:00	inputExt	doy	0	1.210e+02
@@ -368,7 +368,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 11:00:00	inputExt	temper	0	2.315e+01
 2014-05-01 11:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 11:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 11:00:00	output	rad_net_out	0	7.954e+02
+2014-05-01 11:00:00	output	rad_net_out	0	7.953e+02
 2014-05-01 12:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 12:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 12:00:00	inputExt	doy	0	1.210e+02
@@ -378,7 +378,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 12:00:00	inputExt	temper	0	2.418e+01
 2014-05-01 12:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 12:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 12:00:00	output	rad_net_out	0	8.392e+02
+2014-05-01 12:00:00	output	rad_net_out	0	8.391e+02
 2014-05-01 13:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 13:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 13:00:00	inputExt	doy	0	1.210e+02
@@ -388,7 +388,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 13:00:00	inputExt	temper	0	2.502e+01
 2014-05-01 13:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 13:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 13:00:00	output	rad_net_out	0	8.161e+02
+2014-05-01 13:00:00	output	rad_net_out	0	8.160e+02
 2014-05-01 14:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 14:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 14:00:00	inputExt	doy	0	1.210e+02
@@ -398,7 +398,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 14:00:00	inputExt	temper	0	2.545e+01
 2014-05-01 14:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 14:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 14:00:00	output	rad_net_out	0	7.216e+02
+2014-05-01 14:00:00	output	rad_net_out	0	7.215e+02
 2014-05-01 15:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 15:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 15:00:00	inputExt	doy	0	1.210e+02
@@ -408,7 +408,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 15:00:00	inputExt	temper	0	2.545e+01
 2014-05-01 15:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 15:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 15:00:00	output	rad_net_out	0	6.569e+02
+2014-05-01 15:00:00	output	rad_net_out	0	6.568e+02
 2014-05-01 16:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 16:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 16:00:00	inputExt	doy	0	1.210e+02
@@ -418,7 +418,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 16:00:00	inputExt	temper	0	2.420e+01
 2014-05-01 16:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 16:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 16:00:00	output	rad_net_out	0	4.988e+02
+2014-05-01 16:00:00	output	rad_net_out	0	4.987e+02
 2014-05-01 17:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 17:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 17:00:00	inputExt	doy	0	1.210e+02
@@ -428,7 +428,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 17:00:00	inputExt	temper	0	2.175e+01
 2014-05-01 17:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 17:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 17:00:00	output	rad_net_out	0	3.034e+02
+2014-05-01 17:00:00	output	rad_net_out	0	3.032e+02
 2014-05-01 18:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 18:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 18:00:00	inputExt	doy	0	1.210e+02
@@ -438,7 +438,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 18:00:00	inputExt	temper	0	1.928e+01
 2014-05-01 18:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 18:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 18:00:00	output	rad_net_out	0	3.450e+01
+2014-05-01 18:00:00	output	rad_net_out	0	3.416e+01
 2014-05-01 19:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 19:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 19:00:00	inputExt	doy	0	1.210e+02
@@ -448,7 +448,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 19:00:00	inputExt	temper	0	1.717e+01
 2014-05-01 19:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 19:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 19:00:00	output	rad_net_out	0	-1.196e+01
+2014-05-01 19:00:00	output	rad_net_out	0	-1.231e+01
 2014-05-01 20:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 20:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 20:00:00	inputExt	doy	0	1.210e+02
@@ -458,7 +458,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 20:00:00	inputExt	temper	0	1.582e+01
 2014-05-01 20:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 20:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 20:00:00	output	rad_net_out	0	-1.866e+01
+2014-05-01 20:00:00	output	rad_net_out	0	-1.902e+01
 2014-05-01 21:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 21:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 21:00:00	inputExt	doy	0	1.210e+02
@@ -468,7 +468,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 21:00:00	inputExt	temper	0	1.463e+01
 2014-05-01 21:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 21:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 21:00:00	output	rad_net_out	0	-1.818e+01
+2014-05-01 21:00:00	output	rad_net_out	0	-1.853e+01
 2014-05-01 22:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 22:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 22:00:00	inputExt	doy	0	1.210e+02
@@ -478,7 +478,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 22:00:00	inputExt	temper	0	1.370e+01
 2014-05-01 22:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 22:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 22:00:00	output	rad_net_out	0	-1.818e+01
+2014-05-01 22:00:00	output	rad_net_out	0	-1.853e+01
 2014-05-01 23:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-01 23:00:00	inputExt	alb	0	6.574e-02
 2014-05-01 23:00:00	inputExt	doy	0	1.210e+02
@@ -488,7 +488,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-01 23:00:00	inputExt	temper	0	1.297e+01
 2014-05-01 23:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-01 23:00:00	inputSim	dummy	0	0.000e+00
-2014-05-01 23:00:00	output	rad_net_out	0	-1.794e+01
+2014-05-01 23:00:00	output	rad_net_out	0	-1.828e+01
 2014-05-02 00:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 00:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 00:00:00	inputExt	doy	0	1.220e+02
@@ -498,7 +498,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 00:00:00	inputExt	temper	0	1.245e+01
 2014-05-02 00:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 00:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 00:00:00	output	rad_net_out	0	-2.024e+01
+2014-05-02 00:00:00	output	rad_net_out	0	-2.063e+01
 2014-05-02 01:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 01:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 01:00:00	inputExt	doy	0	1.220e+02
@@ -508,7 +508,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 01:00:00	inputExt	temper	0	1.210e+01
 2014-05-02 01:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 01:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 01:00:00	output	rad_net_out	0	-1.747e+01
+2014-05-02 01:00:00	output	rad_net_out	0	-1.780e+01
 2014-05-02 02:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 02:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 02:00:00	inputExt	doy	0	1.220e+02
@@ -518,7 +518,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 02:00:00	inputExt	temper	0	1.178e+01
 2014-05-02 02:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 02:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 02:00:00	output	rad_net_out	0	-1.737e+01
+2014-05-02 02:00:00	output	rad_net_out	0	-1.770e+01
 2014-05-02 03:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 03:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 03:00:00	inputExt	doy	0	1.220e+02
@@ -528,7 +528,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 03:00:00	inputExt	temper	0	1.142e+01
 2014-05-02 03:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 03:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 03:00:00	output	rad_net_out	0	-1.735e+01
+2014-05-02 03:00:00	output	rad_net_out	0	-1.768e+01
 2014-05-02 04:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 04:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 04:00:00	inputExt	doy	0	1.220e+02
@@ -538,7 +538,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 04:00:00	inputExt	temper	0	1.118e+01
 2014-05-02 04:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 04:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 04:00:00	output	rad_net_out	0	-1.731e+01
+2014-05-02 04:00:00	output	rad_net_out	0	-1.765e+01
 2014-05-02 05:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 05:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 05:00:00	inputExt	doy	0	1.220e+02
@@ -548,7 +548,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 05:00:00	inputExt	temper	0	1.152e+01
 2014-05-02 05:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 05:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 05:00:00	output	rad_net_out	0	-1.733e+01
+2014-05-02 05:00:00	output	rad_net_out	0	-1.766e+01
 2014-05-02 06:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 06:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 06:00:00	inputExt	doy	0	1.220e+02
@@ -558,7 +558,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 06:00:00	inputExt	temper	0	1.400e+01
 2014-05-02 06:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 06:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 06:00:00	output	rad_net_out	0	-4.333e+01
+2014-05-02 06:00:00	output	rad_net_out	0	-4.335e+01
 2014-05-02 07:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 07:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 07:00:00	inputExt	doy	0	1.220e+02
@@ -568,7 +568,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 07:00:00	inputExt	temper	0	1.753e+01
 2014-05-02 07:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 07:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 07:00:00	output	rad_net_out	0	9.683e+01
+2014-05-02 07:00:00	output	rad_net_out	0	9.675e+01
 2014-05-02 08:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 08:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 08:00:00	inputExt	doy	0	1.220e+02
@@ -608,7 +608,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 11:00:00	inputExt	temper	0	2.747e+01
 2014-05-02 11:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 11:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 11:00:00	output	rad_net_out	0	7.051e+02
+2014-05-02 11:00:00	output	rad_net_out	0	7.050e+02
 2014-05-02 12:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 12:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 12:00:00	inputExt	doy	0	1.220e+02
@@ -618,7 +618,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 12:00:00	inputExt	temper	0	2.815e+01
 2014-05-02 12:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 12:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 12:00:00	output	rad_net_out	0	8.130e+02
+2014-05-02 12:00:00	output	rad_net_out	0	8.129e+02
 2014-05-02 13:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 13:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 13:00:00	inputExt	doy	0	1.220e+02
@@ -628,7 +628,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 13:00:00	inputExt	temper	0	2.905e+01
 2014-05-02 13:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 13:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 13:00:00	output	rad_net_out	0	7.556e+02
+2014-05-02 13:00:00	output	rad_net_out	0	7.555e+02
 2014-05-02 14:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 14:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 14:00:00	inputExt	doy	0	1.220e+02
@@ -638,7 +638,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 14:00:00	inputExt	temper	0	2.955e+01
 2014-05-02 14:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 14:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 14:00:00	output	rad_net_out	0	7.377e+02
+2014-05-02 14:00:00	output	rad_net_out	0	7.376e+02
 2014-05-02 15:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 15:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 15:00:00	inputExt	doy	0	1.220e+02
@@ -648,7 +648,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 15:00:00	inputExt	temper	0	2.963e+01
 2014-05-02 15:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 15:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 15:00:00	output	rad_net_out	0	6.446e+02
+2014-05-02 15:00:00	output	rad_net_out	0	6.445e+02
 2014-05-02 16:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 16:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 16:00:00	inputExt	doy	0	1.220e+02
@@ -658,7 +658,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 16:00:00	inputExt	temper	0	2.893e+01
 2014-05-02 16:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 16:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 16:00:00	output	rad_net_out	0	4.832e+02
+2014-05-02 16:00:00	output	rad_net_out	0	4.831e+02
 2014-05-02 17:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 17:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 17:00:00	inputExt	doy	0	1.220e+02
@@ -668,7 +668,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 17:00:00	inputExt	temper	0	2.675e+01
 2014-05-02 17:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 17:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 17:00:00	output	rad_net_out	0	2.867e+02
+2014-05-02 17:00:00	output	rad_net_out	0	2.865e+02
 2014-05-02 18:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 18:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 18:00:00	inputExt	doy	0	1.220e+02
@@ -678,7 +678,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 18:00:00	inputExt	temper	0	2.370e+01
 2014-05-02 18:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 18:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 18:00:00	output	rad_net_out	0	2.068e+01
+2014-05-02 18:00:00	output	rad_net_out	0	2.026e+01
 2014-05-02 19:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 19:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 19:00:00	inputExt	doy	0	1.220e+02
@@ -688,7 +688,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 19:00:00	inputExt	temper	0	2.143e+01
 2014-05-02 19:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 19:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 19:00:00	output	rad_net_out	0	-1.417e+01
+2014-05-02 19:00:00	output	rad_net_out	0	-1.456e+01
 2014-05-02 20:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 20:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 20:00:00	inputExt	doy	0	1.220e+02
@@ -698,7 +698,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 20:00:00	inputExt	temper	0	1.972e+01
 2014-05-02 20:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 20:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 20:00:00	output	rad_net_out	0	-1.998e+01
+2014-05-02 20:00:00	output	rad_net_out	0	-2.036e+01
 2014-05-02 21:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 21:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 21:00:00	inputExt	doy	0	1.220e+02
@@ -708,7 +708,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 21:00:00	inputExt	temper	0	1.788e+01
 2014-05-02 21:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 21:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 21:00:00	output	rad_net_out	0	-1.965e+01
+2014-05-02 21:00:00	output	rad_net_out	0	-2.003e+01
 2014-05-02 22:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 22:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 22:00:00	inputExt	doy	0	1.220e+02
@@ -718,7 +718,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 22:00:00	inputExt	temper	0	1.652e+01
 2014-05-02 22:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 22:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 22:00:00	output	rad_net_out	0	-1.974e+01
+2014-05-02 22:00:00	output	rad_net_out	0	-2.011e+01
 2014-05-02 23:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-02 23:00:00	inputExt	alb	0	6.574e-02
 2014-05-02 23:00:00	inputExt	doy	0	1.220e+02
@@ -728,7 +728,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-02 23:00:00	inputExt	temper	0	1.608e+01
 2014-05-02 23:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-02 23:00:00	inputSim	dummy	0	0.000e+00
-2014-05-02 23:00:00	output	rad_net_out	0	-1.974e+01
+2014-05-02 23:00:00	output	rad_net_out	0	-2.011e+01
 2014-05-03 00:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 00:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 00:00:00	inputExt	doy	0	1.230e+02
@@ -738,7 +738,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 00:00:00	inputExt	temper	0	1.658e+01
 2014-05-03 00:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 00:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 00:00:00	output	rad_net_out	0	-2.262e+01
+2014-05-03 00:00:00	output	rad_net_out	0	-2.304e+01
 2014-05-03 01:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 01:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 01:00:00	inputExt	doy	0	1.230e+02
@@ -748,7 +748,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 01:00:00	inputExt	temper	0	1.640e+01
 2014-05-03 01:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 01:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 01:00:00	output	rad_net_out	0	-2.315e+01
+2014-05-03 01:00:00	output	rad_net_out	0	-2.350e+01
 2014-05-03 02:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 02:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 02:00:00	inputExt	doy	0	1.230e+02
@@ -758,7 +758,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 02:00:00	inputExt	temper	0	1.608e+01
 2014-05-03 02:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 02:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 02:00:00	output	rad_net_out	0	-2.257e+01
+2014-05-03 02:00:00	output	rad_net_out	0	-2.296e+01
 2014-05-03 03:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 03:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 03:00:00	inputExt	doy	0	1.230e+02
@@ -768,7 +768,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 03:00:00	inputExt	temper	0	1.580e+01
 2014-05-03 03:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 03:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 03:00:00	output	rad_net_out	0	-2.198e+01
+2014-05-03 03:00:00	output	rad_net_out	0	-2.240e+01
 2014-05-03 04:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 04:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 04:00:00	inputExt	doy	0	1.230e+02
@@ -778,7 +778,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 04:00:00	inputExt	temper	0	1.503e+01
 2014-05-03 04:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 04:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 04:00:00	output	rad_net_out	0	-2.219e+01
+2014-05-03 04:00:00	output	rad_net_out	0	-2.261e+01
 2014-05-03 05:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 05:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 05:00:00	inputExt	doy	0	1.230e+02
@@ -788,7 +788,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 05:00:00	inputExt	temper	0	1.558e+01
 2014-05-03 05:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 05:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 05:00:00	output	rad_net_out	0	-2.245e+01
+2014-05-03 05:00:00	output	rad_net_out	0	-2.285e+01
 2014-05-03 06:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 06:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 06:00:00	inputExt	doy	0	1.230e+02
@@ -798,7 +798,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 06:00:00	inputExt	temper	0	1.740e+01
 2014-05-03 06:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 06:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 06:00:00	output	rad_net_out	0	-6.023e+01
+2014-05-03 06:00:00	output	rad_net_out	0	-6.026e+01
 2014-05-03 07:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 07:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 07:00:00	inputExt	doy	0	1.230e+02
@@ -808,7 +808,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 07:00:00	inputExt	temper	0	1.953e+01
 2014-05-03 07:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 07:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 07:00:00	output	rad_net_out	0	7.686e+01
+2014-05-03 07:00:00	output	rad_net_out	0	7.674e+01
 2014-05-03 08:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 08:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 08:00:00	inputExt	doy	0	1.230e+02
@@ -818,7 +818,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 08:00:00	inputExt	temper	0	2.142e+01
 2014-05-03 08:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 08:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 08:00:00	output	rad_net_out	0	3.210e+02
+2014-05-03 08:00:00	output	rad_net_out	0	3.209e+02
 2014-05-03 09:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 09:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 09:00:00	inputExt	doy	0	1.230e+02
@@ -828,7 +828,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 09:00:00	inputExt	temper	0	2.298e+01
 2014-05-03 09:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 09:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 09:00:00	output	rad_net_out	0	5.418e+02
+2014-05-03 09:00:00	output	rad_net_out	0	5.417e+02
 2014-05-03 10:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 10:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 10:00:00	inputExt	doy	0	1.230e+02
@@ -838,7 +838,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 10:00:00	inputExt	temper	0	2.392e+01
 2014-05-03 10:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 10:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 10:00:00	output	rad_net_out	0	6.823e+02
+2014-05-03 10:00:00	output	rad_net_out	0	6.822e+02
 2014-05-03 11:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 11:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 11:00:00	inputExt	doy	0	1.230e+02
@@ -848,7 +848,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 11:00:00	inputExt	temper	0	2.480e+01
 2014-05-03 11:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 11:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 11:00:00	output	rad_net_out	0	7.813e+02
+2014-05-03 11:00:00	output	rad_net_out	0	7.812e+02
 2014-05-03 12:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 12:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 12:00:00	inputExt	doy	0	1.230e+02
@@ -858,7 +858,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 12:00:00	inputExt	temper	0	2.577e+01
 2014-05-03 12:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 12:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 12:00:00	output	rad_net_out	0	8.231e+02
+2014-05-03 12:00:00	output	rad_net_out	0	8.230e+02
 2014-05-03 13:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 13:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 13:00:00	inputExt	doy	0	1.230e+02
@@ -868,7 +868,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 13:00:00	inputExt	temper	0	2.672e+01
 2014-05-03 13:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 13:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 13:00:00	output	rad_net_out	0	8.212e+02
+2014-05-03 13:00:00	output	rad_net_out	0	8.211e+02
 2014-05-03 14:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 14:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 14:00:00	inputExt	doy	0	1.230e+02
@@ -878,7 +878,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 14:00:00	inputExt	temper	0	2.722e+01
 2014-05-03 14:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 14:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 14:00:00	output	rad_net_out	0	7.638e+02
+2014-05-03 14:00:00	output	rad_net_out	0	7.637e+02
 2014-05-03 15:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 15:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 15:00:00	inputExt	doy	0	1.230e+02
@@ -888,7 +888,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 15:00:00	inputExt	temper	0	2.720e+01
 2014-05-03 15:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 15:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 15:00:00	output	rad_net_out	0	6.512e+02
+2014-05-03 15:00:00	output	rad_net_out	0	6.511e+02
 2014-05-03 16:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 16:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 16:00:00	inputExt	doy	0	1.230e+02
@@ -898,7 +898,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 16:00:00	inputExt	temper	0	2.678e+01
 2014-05-03 16:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 16:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 16:00:00	output	rad_net_out	0	4.966e+02
+2014-05-03 16:00:00	output	rad_net_out	0	4.965e+02
 2014-05-03 17:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 17:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 17:00:00	inputExt	doy	0	1.230e+02
@@ -908,7 +908,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 17:00:00	inputExt	temper	0	2.558e+01
 2014-05-03 17:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 17:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 17:00:00	output	rad_net_out	0	2.955e+02
+2014-05-03 17:00:00	output	rad_net_out	0	2.952e+02
 2014-05-03 18:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 18:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 18:00:00	inputExt	doy	0	1.230e+02
@@ -918,7 +918,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 18:00:00	inputExt	temper	0	2.267e+01
 2014-05-03 18:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 18:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 18:00:00	output	rad_net_out	0	1.464e+01
+2014-05-03 18:00:00	output	rad_net_out	0	1.421e+01
 2014-05-03 19:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 19:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 19:00:00	inputExt	doy	0	1.230e+02
@@ -928,7 +928,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 19:00:00	inputExt	temper	0	1.965e+01
 2014-05-03 19:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 19:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 19:00:00	output	rad_net_out	0	-1.658e+01
+2014-05-03 19:00:00	output	rad_net_out	0	-1.703e+01
 2014-05-03 20:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 20:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 20:00:00	inputExt	doy	0	1.230e+02
@@ -938,7 +938,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 20:00:00	inputExt	temper	0	1.842e+01
 2014-05-03 20:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 20:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 20:00:00	output	rad_net_out	0	-2.387e+01
+2014-05-03 20:00:00	output	rad_net_out	0	-2.432e+01
 2014-05-03 21:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 21:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 21:00:00	inputExt	doy	0	1.230e+02
@@ -948,7 +948,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 21:00:00	inputExt	temper	0	1.707e+01
 2014-05-03 21:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 21:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 21:00:00	output	rad_net_out	0	-1.780e+01
+2014-05-03 21:00:00	output	rad_net_out	0	-1.813e+01
 2014-05-03 22:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 22:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 22:00:00	inputExt	doy	0	1.230e+02
@@ -958,7 +958,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 22:00:00	inputExt	temper	0	1.603e+01
 2014-05-03 22:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 22:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 22:00:00	output	rad_net_out	0	-2.161e+01
+2014-05-03 22:00:00	output	rad_net_out	0	-2.202e+01
 2014-05-03 23:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-03 23:00:00	inputExt	alb	0	6.574e-02
 2014-05-03 23:00:00	inputExt	doy	0	1.230e+02
@@ -968,7 +968,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-03 23:00:00	inputExt	temper	0	1.522e+01
 2014-05-03 23:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-03 23:00:00	inputSim	dummy	0	0.000e+00
-2014-05-03 23:00:00	output	rad_net_out	0	-2.116e+01
+2014-05-03 23:00:00	output	rad_net_out	0	-2.156e+01
 2014-05-04 00:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 00:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 00:00:00	inputExt	doy	0	1.240e+02
@@ -978,7 +978,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 00:00:00	inputExt	temper	0	1.460e+01
 2014-05-04 00:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 00:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 00:00:00	output	rad_net_out	0	-2.262e+01
+2014-05-04 00:00:00	output	rad_net_out	0	-2.304e+01
 2014-05-04 01:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 01:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 01:00:00	inputExt	doy	0	1.240e+02
@@ -988,7 +988,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 01:00:00	inputExt	temper	0	1.437e+01
 2014-05-04 01:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 01:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 01:00:00	output	rad_net_out	0	-2.030e+01
+2014-05-04 01:00:00	output	rad_net_out	0	-2.068e+01
 2014-05-04 02:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 02:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 02:00:00	inputExt	doy	0	1.240e+02
@@ -998,7 +998,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 02:00:00	inputExt	temper	0	1.478e+01
 2014-05-04 02:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 02:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 02:00:00	output	rad_net_out	0	-2.025e+01
+2014-05-04 02:00:00	output	rad_net_out	0	-2.061e+01
 2014-05-04 03:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 03:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 03:00:00	inputExt	doy	0	1.240e+02
@@ -1008,7 +1008,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 03:00:00	inputExt	temper	0	1.535e+01
 2014-05-04 03:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 03:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 03:00:00	output	rad_net_out	0	-2.136e+01
+2014-05-04 03:00:00	output	rad_net_out	0	-2.173e+01
 2014-05-04 04:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 04:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 04:00:00	inputExt	doy	0	1.240e+02
@@ -1018,7 +1018,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 04:00:00	inputExt	temper	0	1.535e+01
 2014-05-04 04:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 04:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 04:00:00	output	rad_net_out	0	-2.160e+01
+2014-05-04 04:00:00	output	rad_net_out	0	-2.198e+01
 2014-05-04 05:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 05:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 05:00:00	inputExt	doy	0	1.240e+02
@@ -1028,7 +1028,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 05:00:00	inputExt	temper	0	1.525e+01
 2014-05-04 05:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 05:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 05:00:00	output	rad_net_out	0	-2.245e+01
+2014-05-04 05:00:00	output	rad_net_out	0	-2.286e+01
 2014-05-04 06:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 06:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 06:00:00	inputExt	doy	0	1.240e+02
@@ -1038,7 +1038,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 06:00:00	inputExt	temper	0	1.657e+01
 2014-05-04 06:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 06:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 06:00:00	output	rad_net_out	0	-6.546e+01
+2014-05-04 06:00:00	output	rad_net_out	0	-6.547e+01
 2014-05-04 07:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 07:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 07:00:00	inputExt	doy	0	1.240e+02
@@ -1048,7 +1048,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 07:00:00	inputExt	temper	0	1.942e+01
 2014-05-04 07:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 07:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 07:00:00	output	rad_net_out	0	8.022e+01
+2014-05-04 07:00:00	output	rad_net_out	0	8.010e+01
 2014-05-04 08:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 08:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 08:00:00	inputExt	doy	0	1.240e+02
@@ -1058,7 +1058,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 08:00:00	inputExt	temper	0	2.220e+01
 2014-05-04 08:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 08:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 08:00:00	output	rad_net_out	0	3.307e+02
+2014-05-04 08:00:00	output	rad_net_out	0	3.306e+02
 2014-05-04 09:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 09:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 09:00:00	inputExt	doy	0	1.240e+02
@@ -1078,7 +1078,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 10:00:00	inputExt	temper	0	2.575e+01
 2014-05-04 10:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 10:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 10:00:00	output	rad_net_out	0	6.847e+02
+2014-05-04 10:00:00	output	rad_net_out	0	6.846e+02
 2014-05-04 11:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 11:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 11:00:00	inputExt	doy	0	1.240e+02
@@ -1088,7 +1088,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 11:00:00	inputExt	temper	0	2.697e+01
 2014-05-04 11:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 11:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 11:00:00	output	rad_net_out	0	7.621e+02
+2014-05-04 11:00:00	output	rad_net_out	0	7.620e+02
 2014-05-04 12:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 12:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 12:00:00	inputExt	doy	0	1.240e+02
@@ -1098,7 +1098,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 12:00:00	inputExt	temper	0	2.788e+01
 2014-05-04 12:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 12:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 12:00:00	output	rad_net_out	0	7.906e+02
+2014-05-04 12:00:00	output	rad_net_out	0	7.905e+02
 2014-05-04 13:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 13:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 13:00:00	inputExt	doy	0	1.240e+02
@@ -1108,7 +1108,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 13:00:00	inputExt	temper	0	2.848e+01
 2014-05-04 13:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 13:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 13:00:00	output	rad_net_out	0	8.051e+02
+2014-05-04 13:00:00	output	rad_net_out	0	8.050e+02
 2014-05-04 14:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 14:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 14:00:00	inputExt	doy	0	1.240e+02
@@ -1118,7 +1118,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 14:00:00	inputExt	temper	0	1.695e+01
 2014-05-04 14:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 14:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 14:00:00	output	rad_net_out	0	-2.465e+01
+2014-05-04 14:00:00	output	rad_net_out	0	-2.512e+01
 2014-05-04 15:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 15:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 15:00:00	inputExt	doy	0	1.240e+02
@@ -1128,7 +1128,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 15:00:00	inputExt	temper	0	1.695e+01
 2014-05-04 15:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 15:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 15:00:00	output	rad_net_out	0	-2.488e+01
+2014-05-04 15:00:00	output	rad_net_out	0	-2.535e+01
 2014-05-04 16:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 16:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 16:00:00	inputExt	doy	0	1.240e+02
@@ -1138,7 +1138,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 16:00:00	inputExt	temper	0	1.695e+01
 2014-05-04 16:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 16:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 16:00:00	output	rad_net_out	0	-2.497e+01
+2014-05-04 16:00:00	output	rad_net_out	0	-2.545e+01
 2014-05-04 17:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 17:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 17:00:00	inputExt	doy	0	1.240e+02
@@ -1148,7 +1148,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 17:00:00	inputExt	temper	0	1.695e+01
 2014-05-04 17:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 17:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 17:00:00	output	rad_net_out	0	-2.531e+01
+2014-05-04 17:00:00	output	rad_net_out	0	-2.579e+01
 2014-05-04 18:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 18:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 18:00:00	inputExt	doy	0	1.240e+02
@@ -1158,7 +1158,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 18:00:00	inputExt	temper	0	1.695e+01
 2014-05-04 18:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 18:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 18:00:00	output	rad_net_out	0	-2.535e+01
+2014-05-04 18:00:00	output	rad_net_out	0	-2.583e+01
 2014-05-04 19:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 19:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 19:00:00	inputExt	doy	0	1.240e+02
@@ -1168,7 +1168,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 19:00:00	inputExt	temper	0	1.695e+01
 2014-05-04 19:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 19:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 19:00:00	output	rad_net_out	0	-2.348e+01
+2014-05-04 19:00:00	output	rad_net_out	0	-2.392e+01
 2014-05-04 20:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 20:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 20:00:00	inputExt	doy	0	1.240e+02
@@ -1178,7 +1178,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 20:00:00	inputExt	temper	0	1.695e+01
 2014-05-04 20:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 20:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 20:00:00	output	rad_net_out	0	-2.157e+01
+2014-05-04 20:00:00	output	rad_net_out	0	-2.199e+01
 2014-05-04 21:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 21:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 21:00:00	inputExt	doy	0	1.240e+02
@@ -1188,7 +1188,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 21:00:00	inputExt	temper	0	1.695e+01
 2014-05-04 21:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 21:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 21:00:00	output	rad_net_out	0	-2.114e+01
+2014-05-04 21:00:00	output	rad_net_out	0	-2.155e+01
 2014-05-04 22:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 22:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 22:00:00	inputExt	doy	0	1.240e+02
@@ -1198,7 +1198,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 22:00:00	inputExt	temper	0	1.695e+01
 2014-05-04 22:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 22:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 22:00:00	output	rad_net_out	0	-2.079e+01
+2014-05-04 22:00:00	output	rad_net_out	0	-2.119e+01
 2014-05-04 23:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-04 23:00:00	inputExt	alb	0	6.574e-02
 2014-05-04 23:00:00	inputExt	doy	0	1.240e+02
@@ -1208,7 +1208,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-04 23:00:00	inputExt	temper	0	1.695e+01
 2014-05-04 23:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-04 23:00:00	inputSim	dummy	0	0.000e+00
-2014-05-04 23:00:00	output	rad_net_out	0	-2.074e+01
+2014-05-04 23:00:00	output	rad_net_out	0	-2.114e+01
 2014-05-05 00:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 00:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 00:00:00	inputExt	doy	0	1.250e+02
@@ -1218,7 +1218,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 00:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 00:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 00:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 00:00:00	output	rad_net_out	0	-2.207e+01
+2014-05-05 00:00:00	output	rad_net_out	0	-2.250e+01
 2014-05-05 01:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 01:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 01:00:00	inputExt	doy	0	1.250e+02
@@ -1228,7 +1228,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 01:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 01:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 01:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 01:00:00	output	rad_net_out	0	-2.056e+01
+2014-05-05 01:00:00	output	rad_net_out	0	-2.096e+01
 2014-05-05 02:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 02:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 02:00:00	inputExt	doy	0	1.250e+02
@@ -1238,7 +1238,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 02:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 02:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 02:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 02:00:00	output	rad_net_out	0	-2.047e+01
+2014-05-05 02:00:00	output	rad_net_out	0	-2.086e+01
 2014-05-05 03:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 03:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 03:00:00	inputExt	doy	0	1.250e+02
@@ -1248,7 +1248,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 03:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 03:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 03:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 03:00:00	output	rad_net_out	0	-2.110e+01
+2014-05-05 03:00:00	output	rad_net_out	0	-2.150e+01
 2014-05-05 04:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 04:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 04:00:00	inputExt	doy	0	1.250e+02
@@ -1258,7 +1258,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 04:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 04:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 04:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 04:00:00	output	rad_net_out	0	-2.096e+01
+2014-05-05 04:00:00	output	rad_net_out	0	-2.136e+01
 2014-05-05 05:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 05:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 05:00:00	inputExt	doy	0	1.250e+02
@@ -1268,7 +1268,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 05:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 05:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 05:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 05:00:00	output	rad_net_out	0	-1.923e+01
+2014-05-05 05:00:00	output	rad_net_out	0	-1.960e+01
 2014-05-05 06:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 06:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 06:00:00	inputExt	doy	0	1.250e+02
@@ -1278,7 +1278,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 06:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 06:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 06:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 06:00:00	output	rad_net_out	0	-1.889e+01
+2014-05-05 06:00:00	output	rad_net_out	0	-1.925e+01
 2014-05-05 07:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 07:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 07:00:00	inputExt	doy	0	1.250e+02
@@ -1288,7 +1288,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 07:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 07:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 07:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 07:00:00	output	rad_net_out	0	-1.674e+01
+2014-05-05 07:00:00	output	rad_net_out	0	-1.705e+01
 2014-05-05 08:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 08:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 08:00:00	inputExt	doy	0	1.250e+02
@@ -1298,7 +1298,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 08:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 08:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 08:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 08:00:00	output	rad_net_out	0	-1.746e+01
+2014-05-05 08:00:00	output	rad_net_out	0	-1.780e+01
 2014-05-05 09:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 09:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 09:00:00	inputExt	doy	0	1.250e+02
@@ -1308,7 +1308,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 09:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 09:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 09:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 09:00:00	output	rad_net_out	0	-1.876e+01
+2014-05-05 09:00:00	output	rad_net_out	0	-1.911e+01
 2014-05-05 10:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 10:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 10:00:00	inputExt	doy	0	1.250e+02
@@ -1318,7 +1318,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 10:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 10:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 10:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 10:00:00	output	rad_net_out	0	-1.991e+01
+2014-05-05 10:00:00	output	rad_net_out	0	-2.029e+01
 2014-05-05 11:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 11:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 11:00:00	inputExt	doy	0	1.250e+02
@@ -1328,7 +1328,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 11:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 11:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 11:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 11:00:00	output	rad_net_out	0	-2.158e+01
+2014-05-05 11:00:00	output	rad_net_out	0	-2.199e+01
 2014-05-05 12:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 12:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 12:00:00	inputExt	doy	0	1.250e+02
@@ -1338,7 +1338,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 12:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 12:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 12:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 12:00:00	output	rad_net_out	0	-2.252e+01
+2014-05-05 12:00:00	output	rad_net_out	0	-2.295e+01
 2014-05-05 13:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 13:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 13:00:00	inputExt	doy	0	1.250e+02
@@ -1348,7 +1348,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 13:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 13:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 13:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 13:00:00	output	rad_net_out	0	-2.296e+01
+2014-05-05 13:00:00	output	rad_net_out	0	-2.340e+01
 2014-05-05 14:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 14:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 14:00:00	inputExt	doy	0	1.250e+02
@@ -1358,7 +1358,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 14:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 14:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 14:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 14:00:00	output	rad_net_out	0	-2.336e+01
+2014-05-05 14:00:00	output	rad_net_out	0	-2.381e+01
 2014-05-05 15:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 15:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 15:00:00	inputExt	doy	0	1.250e+02
@@ -1368,7 +1368,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 15:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 15:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 15:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 15:00:00	output	rad_net_out	0	-2.405e+01
+2014-05-05 15:00:00	output	rad_net_out	0	-2.451e+01
 2014-05-05 16:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 16:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 16:00:00	inputExt	doy	0	1.250e+02
@@ -1378,7 +1378,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 16:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 16:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 16:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 16:00:00	output	rad_net_out	0	-2.417e+01
+2014-05-05 16:00:00	output	rad_net_out	0	-2.464e+01
 2014-05-05 17:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 17:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 17:00:00	inputExt	doy	0	1.250e+02
@@ -1388,7 +1388,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 17:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 17:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 17:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 17:00:00	output	rad_net_out	0	-2.450e+01
+2014-05-05 17:00:00	output	rad_net_out	0	-2.496e+01
 2014-05-05 18:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 18:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 18:00:00	inputExt	doy	0	1.250e+02
@@ -1398,7 +1398,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 18:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 18:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 18:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 18:00:00	output	rad_net_out	0	-2.213e+01
+2014-05-05 18:00:00	output	rad_net_out	0	-2.256e+01
 2014-05-05 19:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 19:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 19:00:00	inputExt	doy	0	1.250e+02
@@ -1408,7 +1408,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 19:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 19:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 19:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 19:00:00	output	rad_net_out	0	-2.151e+01
+2014-05-05 19:00:00	output	rad_net_out	0	-2.192e+01
 2014-05-05 20:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 20:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 20:00:00	inputExt	doy	0	1.250e+02
@@ -1418,7 +1418,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 20:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 20:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 20:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 20:00:00	output	rad_net_out	0	-2.078e+01
+2014-05-05 20:00:00	output	rad_net_out	0	-2.118e+01
 2014-05-05 21:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 21:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 21:00:00	inputExt	doy	0	1.250e+02
@@ -1428,7 +1428,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 21:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 21:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 21:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 21:00:00	output	rad_net_out	0	-1.860e+01
+2014-05-05 21:00:00	output	rad_net_out	0	-1.896e+01
 2014-05-05 22:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 22:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 22:00:00	inputExt	doy	0	1.250e+02
@@ -1438,7 +1438,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 22:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 22:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 22:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 22:00:00	output	rad_net_out	0	-1.822e+01
+2014-05-05 22:00:00	output	rad_net_out	0	-1.857e+01
 2014-05-05 23:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-05 23:00:00	inputExt	alb	0	6.574e-02
 2014-05-05 23:00:00	inputExt	doy	0	1.250e+02
@@ -1448,7 +1448,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-05 23:00:00	inputExt	temper	0	1.695e+01
 2014-05-05 23:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-05 23:00:00	inputSim	dummy	0	0.000e+00
-2014-05-05 23:00:00	output	rad_net_out	0	-1.774e+01
+2014-05-05 23:00:00	output	rad_net_out	0	-1.808e+01
 2014-05-06 00:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 00:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 00:00:00	inputExt	doy	0	1.260e+02
@@ -1458,7 +1458,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 00:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 00:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 00:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 00:00:00	output	rad_net_out	0	-1.834e+01
+2014-05-06 00:00:00	output	rad_net_out	0	-1.869e+01
 2014-05-06 01:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 01:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 01:00:00	inputExt	doy	0	1.260e+02
@@ -1468,7 +1468,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 01:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 01:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 01:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 01:00:00	output	rad_net_out	0	-1.606e+01
+2014-05-06 01:00:00	output	rad_net_out	0	-1.636e+01
 2014-05-06 02:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 02:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 02:00:00	inputExt	doy	0	1.260e+02
@@ -1478,7 +1478,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 02:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 02:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 02:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 02:00:00	output	rad_net_out	0	-1.603e+01
+2014-05-06 02:00:00	output	rad_net_out	0	-1.634e+01
 2014-05-06 03:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 03:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 03:00:00	inputExt	doy	0	1.260e+02
@@ -1488,7 +1488,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 03:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 03:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 03:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 03:00:00	output	rad_net_out	0	-1.583e+01
+2014-05-06 03:00:00	output	rad_net_out	0	-1.614e+01
 2014-05-06 04:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 04:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 04:00:00	inputExt	doy	0	1.260e+02
@@ -1498,7 +1498,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 04:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 04:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 04:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 04:00:00	output	rad_net_out	0	-1.568e+01
+2014-05-06 04:00:00	output	rad_net_out	0	-1.598e+01
 2014-05-06 05:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 05:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 05:00:00	inputExt	doy	0	1.260e+02
@@ -1508,7 +1508,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 05:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 05:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 05:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 05:00:00	output	rad_net_out	0	-1.527e+01
+2014-05-06 05:00:00	output	rad_net_out	0	-1.556e+01
 2014-05-06 06:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 06:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 06:00:00	inputExt	doy	0	1.260e+02
@@ -1518,7 +1518,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 06:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 06:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 06:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 06:00:00	output	rad_net_out	0	-1.512e+01
+2014-05-06 06:00:00	output	rad_net_out	0	-1.540e+01
 2014-05-06 07:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 07:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 07:00:00	inputExt	doy	0	1.260e+02
@@ -1528,7 +1528,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 07:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 07:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 07:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 07:00:00	output	rad_net_out	0	-1.522e+01
+2014-05-06 07:00:00	output	rad_net_out	0	-1.551e+01
 2014-05-06 08:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 08:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 08:00:00	inputExt	doy	0	1.260e+02
@@ -1538,7 +1538,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 08:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 08:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 08:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 08:00:00	output	rad_net_out	0	-1.561e+01
+2014-05-06 08:00:00	output	rad_net_out	0	-1.590e+01
 2014-05-06 09:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 09:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 09:00:00	inputExt	doy	0	1.260e+02
@@ -1548,7 +1548,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 09:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 09:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 09:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 09:00:00	output	rad_net_out	0	-1.660e+01
+2014-05-06 09:00:00	output	rad_net_out	0	-1.692e+01
 2014-05-06 10:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 10:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 10:00:00	inputExt	doy	0	1.260e+02
@@ -1558,7 +1558,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 10:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 10:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 10:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 10:00:00	output	rad_net_out	0	-1.774e+01
+2014-05-06 10:00:00	output	rad_net_out	0	-1.808e+01
 2014-05-06 11:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 11:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 11:00:00	inputExt	doy	0	1.260e+02
@@ -1568,7 +1568,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 11:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 11:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 11:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 11:00:00	output	rad_net_out	0	-1.835e+01
+2014-05-06 11:00:00	output	rad_net_out	0	-1.870e+01
 2014-05-06 12:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 12:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 12:00:00	inputExt	doy	0	1.260e+02
@@ -1578,7 +1578,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 12:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 12:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 12:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 12:00:00	output	rad_net_out	0	-1.954e+01
+2014-05-06 12:00:00	output	rad_net_out	0	-1.992e+01
 2014-05-06 13:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 13:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 13:00:00	inputExt	doy	0	1.260e+02
@@ -1588,7 +1588,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 13:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 13:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 13:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 13:00:00	output	rad_net_out	0	-2.135e+01
+2014-05-06 13:00:00	output	rad_net_out	0	-2.176e+01
 2014-05-06 14:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 14:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 14:00:00	inputExt	doy	0	1.260e+02
@@ -1598,7 +1598,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 14:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 14:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 14:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 14:00:00	output	rad_net_out	0	-2.244e+01
+2014-05-06 14:00:00	output	rad_net_out	0	-2.287e+01
 2014-05-06 15:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 15:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 15:00:00	inputExt	doy	0	1.260e+02
@@ -1608,7 +1608,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 15:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 15:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 15:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 15:00:00	output	rad_net_out	0	-2.292e+01
+2014-05-06 15:00:00	output	rad_net_out	0	-2.336e+01
 2014-05-06 16:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 16:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 16:00:00	inputExt	doy	0	1.260e+02
@@ -1618,7 +1618,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 16:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 16:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 16:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 16:00:00	output	rad_net_out	0	-2.357e+01
+2014-05-06 16:00:00	output	rad_net_out	0	-2.402e+01
 2014-05-06 17:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 17:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 17:00:00	inputExt	doy	0	1.260e+02
@@ -1628,7 +1628,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 17:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 17:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 17:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 17:00:00	output	rad_net_out	0	-2.402e+01
+2014-05-06 17:00:00	output	rad_net_out	0	-2.448e+01
 2014-05-06 18:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 18:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 18:00:00	inputExt	doy	0	1.260e+02
@@ -1638,7 +1638,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 18:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 18:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 18:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 18:00:00	output	rad_net_out	0	-2.301e+01
+2014-05-06 18:00:00	output	rad_net_out	0	-2.345e+01
 2014-05-06 19:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 19:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 19:00:00	inputExt	doy	0	1.260e+02
@@ -1648,7 +1648,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 19:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 19:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 19:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 19:00:00	output	rad_net_out	0	-1.985e+01
+2014-05-06 19:00:00	output	rad_net_out	0	-2.022e+01
 2014-05-06 20:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 20:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 20:00:00	inputExt	doy	0	1.260e+02
@@ -1658,7 +1658,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 20:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 20:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 20:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 20:00:00	output	rad_net_out	0	-1.884e+01
+2014-05-06 20:00:00	output	rad_net_out	0	-1.920e+01
 2014-05-06 21:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 21:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 21:00:00	inputExt	doy	0	1.260e+02
@@ -1668,7 +1668,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 21:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 21:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 21:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 21:00:00	output	rad_net_out	0	-1.716e+01
+2014-05-06 21:00:00	output	rad_net_out	0	-1.749e+01
 2014-05-06 22:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 22:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 22:00:00	inputExt	doy	0	1.260e+02
@@ -1678,7 +1678,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 22:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 22:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 22:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 22:00:00	output	rad_net_out	0	-1.635e+01
+2014-05-06 22:00:00	output	rad_net_out	0	-1.667e+01
 2014-05-06 23:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-06 23:00:00	inputExt	alb	0	6.574e-02
 2014-05-06 23:00:00	inputExt	doy	0	1.260e+02
@@ -1688,7 +1688,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-06 23:00:00	inputExt	temper	0	1.695e+01
 2014-05-06 23:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-06 23:00:00	inputSim	dummy	0	0.000e+00
-2014-05-06 23:00:00	output	rad_net_out	0	-1.617e+01
+2014-05-06 23:00:00	output	rad_net_out	0	-1.648e+01
 2014-05-07 00:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 00:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 00:00:00	inputExt	doy	0	1.270e+02
@@ -1698,7 +1698,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 00:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 00:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 00:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 00:00:00	output	rad_net_out	0	-1.761e+01
+2014-05-07 00:00:00	output	rad_net_out	0	-1.794e+01
 2014-05-07 01:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 01:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 01:00:00	inputExt	doy	0	1.270e+02
@@ -1708,7 +1708,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 01:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 01:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 01:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 01:00:00	output	rad_net_out	0	-1.578e+01
+2014-05-07 01:00:00	output	rad_net_out	0	-1.608e+01
 2014-05-07 02:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 02:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 02:00:00	inputExt	doy	0	1.270e+02
@@ -1718,7 +1718,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 02:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 02:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 02:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 02:00:00	output	rad_net_out	0	-1.577e+01
+2014-05-07 02:00:00	output	rad_net_out	0	-1.607e+01
 2014-05-07 03:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 03:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 03:00:00	inputExt	doy	0	1.270e+02
@@ -1728,7 +1728,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 03:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 03:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 03:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 03:00:00	output	rad_net_out	0	-1.580e+01
+2014-05-07 03:00:00	output	rad_net_out	0	-1.611e+01
 2014-05-07 04:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 04:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 04:00:00	inputExt	doy	0	1.270e+02
@@ -1738,7 +1738,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 04:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 04:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 04:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 04:00:00	output	rad_net_out	0	-1.585e+01
+2014-05-07 04:00:00	output	rad_net_out	0	-1.615e+01
 2014-05-07 05:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 05:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 05:00:00	inputExt	doy	0	1.270e+02
@@ -1748,7 +1748,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 05:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 05:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 05:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 05:00:00	output	rad_net_out	0	-1.597e+01
+2014-05-07 05:00:00	output	rad_net_out	0	-1.628e+01
 2014-05-07 06:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 06:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 06:00:00	inputExt	doy	0	1.270e+02
@@ -1758,7 +1758,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 06:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 06:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 06:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 06:00:00	output	rad_net_out	0	-1.603e+01
+2014-05-07 06:00:00	output	rad_net_out	0	-1.634e+01
 2014-05-07 07:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 07:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 07:00:00	inputExt	doy	0	1.270e+02
@@ -1768,7 +1768,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 07:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 07:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 07:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 07:00:00	output	rad_net_out	0	-1.618e+01
+2014-05-07 07:00:00	output	rad_net_out	0	-1.649e+01
 2014-05-07 08:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 08:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 08:00:00	inputExt	doy	0	1.270e+02
@@ -1778,7 +1778,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 08:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 08:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 08:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 08:00:00	output	rad_net_out	0	-1.719e+01
+2014-05-07 08:00:00	output	rad_net_out	0	-1.752e+01
 2014-05-07 09:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 09:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 09:00:00	inputExt	doy	0	1.270e+02
@@ -1788,7 +1788,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 09:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 09:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 09:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 09:00:00	output	rad_net_out	0	-1.821e+01
+2014-05-07 09:00:00	output	rad_net_out	0	-1.856e+01
 2014-05-07 10:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 10:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 10:00:00	inputExt	doy	0	1.270e+02
@@ -1798,7 +1798,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 10:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 10:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 10:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 10:00:00	output	rad_net_out	0	-1.892e+01
+2014-05-07 10:00:00	output	rad_net_out	0	-1.928e+01
 2014-05-07 11:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 11:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 11:00:00	inputExt	doy	0	1.270e+02
@@ -1808,7 +1808,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 11:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 11:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 11:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 11:00:00	output	rad_net_out	0	-1.950e+01
+2014-05-07 11:00:00	output	rad_net_out	0	-1.987e+01
 2014-05-07 12:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 12:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 12:00:00	inputExt	doy	0	1.270e+02
@@ -1818,7 +1818,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 12:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 12:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 12:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 12:00:00	output	rad_net_out	0	-1.991e+01
+2014-05-07 12:00:00	output	rad_net_out	0	-2.029e+01
 2014-05-07 13:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 13:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 13:00:00	inputExt	doy	0	1.270e+02
@@ -1828,7 +1828,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 13:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 13:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 13:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 13:00:00	output	rad_net_out	0	-2.083e+01
+2014-05-07 13:00:00	output	rad_net_out	0	-2.123e+01
 2014-05-07 14:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 14:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 14:00:00	inputExt	doy	0	1.270e+02
@@ -1838,7 +1838,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 14:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 14:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 14:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 14:00:00	output	rad_net_out	0	-2.184e+01
+2014-05-07 14:00:00	output	rad_net_out	0	-2.225e+01
 2014-05-07 15:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 15:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 15:00:00	inputExt	doy	0	1.270e+02
@@ -1848,7 +1848,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 15:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 15:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 15:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 15:00:00	output	rad_net_out	0	-2.143e+01
+2014-05-07 15:00:00	output	rad_net_out	0	-2.184e+01
 2014-05-07 16:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 16:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 16:00:00	inputExt	doy	0	1.270e+02
@@ -1858,7 +1858,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 16:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 16:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 16:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 16:00:00	output	rad_net_out	0	-2.134e+01
+2014-05-07 16:00:00	output	rad_net_out	0	-2.175e+01
 2014-05-07 17:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 17:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 17:00:00	inputExt	doy	0	1.270e+02
@@ -1868,7 +1868,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 17:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 17:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 17:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 17:00:00	output	rad_net_out	0	-2.044e+01
+2014-05-07 17:00:00	output	rad_net_out	0	-2.083e+01
 2014-05-07 18:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 18:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 18:00:00	inputExt	doy	0	1.270e+02
@@ -1878,7 +1878,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 18:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 18:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 18:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 18:00:00	output	rad_net_out	0	-2.035e+01
+2014-05-07 18:00:00	output	rad_net_out	0	-2.074e+01
 2014-05-07 19:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 19:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 19:00:00	inputExt	doy	0	1.270e+02
@@ -1888,7 +1888,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 19:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 19:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 19:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 19:00:00	output	rad_net_out	0	-1.979e+01
+2014-05-07 19:00:00	output	rad_net_out	0	-2.017e+01
 2014-05-07 20:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 20:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 20:00:00	inputExt	doy	0	1.270e+02
@@ -1898,7 +1898,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 20:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 20:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 20:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 20:00:00	output	rad_net_out	0	-1.867e+01
+2014-05-07 20:00:00	output	rad_net_out	0	-1.903e+01
 2014-05-07 21:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 21:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 21:00:00	inputExt	doy	0	1.270e+02
@@ -1908,7 +1908,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 21:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 21:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 21:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 21:00:00	output	rad_net_out	0	-1.726e+01
+2014-05-07 21:00:00	output	rad_net_out	0	-1.759e+01
 2014-05-07 22:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 22:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 22:00:00	inputExt	doy	0	1.270e+02
@@ -1918,7 +1918,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 22:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 22:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 22:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 22:00:00	output	rad_net_out	0	-1.656e+01
+2014-05-07 22:00:00	output	rad_net_out	0	-1.688e+01
 2014-05-07 23:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-07 23:00:00	inputExt	alb	0	6.574e-02
 2014-05-07 23:00:00	inputExt	doy	0	1.270e+02
@@ -1928,7 +1928,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-07 23:00:00	inputExt	temper	0	1.695e+01
 2014-05-07 23:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-07 23:00:00	inputSim	dummy	0	0.000e+00
-2014-05-07 23:00:00	output	rad_net_out	0	-1.616e+01
+2014-05-07 23:00:00	output	rad_net_out	0	-1.647e+01
 2014-05-08 00:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 00:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 00:00:00	inputExt	doy	0	1.280e+02
@@ -1938,7 +1938,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 00:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 00:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 00:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 00:00:00	output	rad_net_out	0	-1.832e+01
+2014-05-08 00:00:00	output	rad_net_out	0	-1.867e+01
 2014-05-08 01:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 01:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 01:00:00	inputExt	doy	0	1.280e+02
@@ -1948,7 +1948,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 01:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 01:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 01:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 01:00:00	output	rad_net_out	0	-1.619e+01
+2014-05-08 01:00:00	output	rad_net_out	0	-1.650e+01
 2014-05-08 02:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 02:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 02:00:00	inputExt	doy	0	1.280e+02
@@ -1958,7 +1958,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 02:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 02:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 02:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 02:00:00	output	rad_net_out	0	-1.599e+01
+2014-05-08 02:00:00	output	rad_net_out	0	-1.630e+01
 2014-05-08 03:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 03:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 03:00:00	inputExt	doy	0	1.280e+02
@@ -1968,7 +1968,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 03:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 03:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 03:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 03:00:00	output	rad_net_out	0	-1.597e+01
+2014-05-08 03:00:00	output	rad_net_out	0	-1.628e+01
 2014-05-08 04:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 04:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 04:00:00	inputExt	doy	0	1.280e+02
@@ -1978,7 +1978,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 04:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 04:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 04:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 04:00:00	output	rad_net_out	0	-1.605e+01
+2014-05-08 04:00:00	output	rad_net_out	0	-1.635e+01
 2014-05-08 05:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 05:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 05:00:00	inputExt	doy	0	1.280e+02
@@ -1988,7 +1988,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 05:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 05:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 05:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 05:00:00	output	rad_net_out	0	-1.590e+01
+2014-05-08 05:00:00	output	rad_net_out	0	-1.620e+01
 2014-05-08 06:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 06:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 06:00:00	inputExt	doy	0	1.280e+02
@@ -1998,7 +1998,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 06:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 06:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 06:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 06:00:00	output	rad_net_out	0	-1.603e+01
+2014-05-08 06:00:00	output	rad_net_out	0	-1.634e+01
 2014-05-08 07:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 07:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 07:00:00	inputExt	doy	0	1.280e+02
@@ -2008,7 +2008,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 07:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 07:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 07:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 07:00:00	output	rad_net_out	0	-1.605e+01
+2014-05-08 07:00:00	output	rad_net_out	0	-1.635e+01
 2014-05-08 08:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 08:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 08:00:00	inputExt	doy	0	1.280e+02
@@ -2018,7 +2018,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 08:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 08:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 08:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 08:00:00	output	rad_net_out	0	-1.625e+01
+2014-05-08 08:00:00	output	rad_net_out	0	-1.656e+01
 2014-05-08 09:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 09:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 09:00:00	inputExt	doy	0	1.280e+02
@@ -2028,7 +2028,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 09:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 09:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 09:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 09:00:00	output	rad_net_out	0	-1.668e+01
+2014-05-08 09:00:00	output	rad_net_out	0	-1.700e+01
 2014-05-08 10:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 10:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 10:00:00	inputExt	doy	0	1.280e+02
@@ -2038,7 +2038,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 10:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 10:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 10:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 10:00:00	output	rad_net_out	0	-1.738e+01
+2014-05-08 10:00:00	output	rad_net_out	0	-1.772e+01
 2014-05-08 11:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 11:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 11:00:00	inputExt	doy	0	1.280e+02
@@ -2048,7 +2048,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 11:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 11:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 11:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 11:00:00	output	rad_net_out	0	-1.869e+01
+2014-05-08 11:00:00	output	rad_net_out	0	-1.904e+01
 2014-05-08 12:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 12:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 12:00:00	inputExt	doy	0	1.280e+02
@@ -2058,7 +2058,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 12:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 12:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 12:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 12:00:00	output	rad_net_out	0	-2.074e+01
+2014-05-08 12:00:00	output	rad_net_out	0	-2.114e+01
 2014-05-08 13:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 13:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 13:00:00	inputExt	doy	0	1.280e+02
@@ -2068,7 +2068,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 13:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 13:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 13:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 13:00:00	output	rad_net_out	0	-2.075e+01
+2014-05-08 13:00:00	output	rad_net_out	0	-2.115e+01
 2014-05-08 14:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 14:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 14:00:00	inputExt	doy	0	1.280e+02
@@ -2078,7 +2078,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 14:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 14:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 14:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 14:00:00	output	rad_net_out	0	-2.103e+01
+2014-05-08 14:00:00	output	rad_net_out	0	-2.143e+01
 2014-05-08 15:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 15:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 15:00:00	inputExt	doy	0	1.280e+02
@@ -2088,7 +2088,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 15:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 15:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 15:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 15:00:00	output	rad_net_out	0	-2.069e+01
+2014-05-08 15:00:00	output	rad_net_out	0	-2.108e+01
 2014-05-08 16:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 16:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 16:00:00	inputExt	doy	0	1.280e+02
@@ -2098,7 +2098,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 16:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 16:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 16:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 16:00:00	output	rad_net_out	0	-2.122e+01
+2014-05-08 16:00:00	output	rad_net_out	0	-2.162e+01
 2014-05-08 17:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 17:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 17:00:00	inputExt	doy	0	1.280e+02
@@ -2108,7 +2108,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 17:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 17:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 17:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 17:00:00	output	rad_net_out	0	-2.058e+01
+2014-05-08 17:00:00	output	rad_net_out	0	-2.097e+01
 2014-05-08 18:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 18:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 18:00:00	inputExt	doy	0	1.280e+02
@@ -2118,7 +2118,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 18:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 18:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 18:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 18:00:00	output	rad_net_out	0	-2.000e+01
+2014-05-08 18:00:00	output	rad_net_out	0	-2.038e+01
 2014-05-08 19:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 19:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 19:00:00	inputExt	doy	0	1.280e+02
@@ -2128,7 +2128,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 19:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 19:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 19:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 19:00:00	output	rad_net_out	0	-1.904e+01
+2014-05-08 19:00:00	output	rad_net_out	0	-1.940e+01
 2014-05-08 20:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 20:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 20:00:00	inputExt	doy	0	1.280e+02
@@ -2138,7 +2138,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 20:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 20:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 20:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 20:00:00	output	rad_net_out	0	-1.727e+01
+2014-05-08 20:00:00	output	rad_net_out	0	-1.760e+01
 2014-05-08 21:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 21:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 21:00:00	inputExt	doy	0	1.280e+02
@@ -2148,7 +2148,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 21:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 21:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 21:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 21:00:00	output	rad_net_out	0	-1.659e+01
+2014-05-08 21:00:00	output	rad_net_out	0	-1.691e+01
 2014-05-08 22:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 22:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 22:00:00	inputExt	doy	0	1.280e+02
@@ -2158,7 +2158,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 22:00:00	inputExt	temper	0	1.695e+01
 2014-05-08 22:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 22:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 22:00:00	output	rad_net_out	0	-1.651e+01
+2014-05-08 22:00:00	output	rad_net_out	0	-1.682e+01
 2014-05-08 23:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-08 23:00:00	inputExt	alb	0	6.574e-02
 2014-05-08 23:00:00	inputExt	doy	0	1.280e+02
@@ -2168,7 +2168,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-08 23:00:00	inputExt	temper	0	2.523e+01
 2014-05-08 23:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-08 23:00:00	inputSim	dummy	0	0.000e+00
-2014-05-08 23:00:00	output	rad_net_out	0	-1.218e+01
+2014-05-08 23:00:00	output	rad_net_out	0	-1.241e+01
 2014-05-09 00:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-09 00:00:00	inputExt	alb	0	6.574e-02
 2014-05-09 00:00:00	inputExt	doy	0	1.290e+02
@@ -2178,7 +2178,7 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-09 00:00:00	inputExt	temper	0	2.643e+01
 2014-05-09 00:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-09 00:00:00	inputSim	dummy	0	0.000e+00
-2014-05-09 00:00:00	output	rad_net_out	0	-1.712e+01
+2014-05-09 00:00:00	output	rad_net_out	0	-1.745e+01
 2014-05-09 01:00:00	stateScal	s_glorad_max	0	2.000e+01
 2014-05-09 01:00:00	inputExt	alb	0	6.574e-02
 2014-05-09 01:00:00	inputExt	doy	0	1.290e+02
@@ -2188,4 +2188,4 @@ end_of_interval	type_of_item	item_name	index	value
 2014-05-09 01:00:00	inputExt	temper	0	2.753e+01
 2014-05-09 01:00:00	inputExt	utc_add	0	0.000e+00
 2014-05-09 01:00:00	inputSim	dummy	0	0.000e+00
-2014-05-09 01:00:00	output	rad_net_out	0	-1.712e+01
+2014-05-09 01:00:00	output	rad_net_out	0	-1.745e+01
