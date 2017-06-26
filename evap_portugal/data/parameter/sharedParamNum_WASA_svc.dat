@@ -11,8 +11,8 @@ emis_b           	-0.14
 ext              	0.4              
 f_day            	0.173349695797552
 f_night          	0.290341395633053
-fcorr_a          	0.758823671186151
-fcorr_b          	0.241176328813849
+fcorr_a          	0.738664647573369
+fcorr_b          	0.261335352426631
 h_humMeas        	2                
 h_tempMeas       	2                
 h_windMeas       	2                

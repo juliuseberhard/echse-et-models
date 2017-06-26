@@ -21,7 +21,7 @@ rad_long  false  true  ../data/forcing/meteo/05_meteofill/out/HS/rad_long_data.d
 rad_net  false  true  ../data/forcing/meteo/05_meteofill/out/HS/rad_net_data.dat
 rad_net_soil  false  true  ../data/forcing/meteo/dummy_ts.dat
 radex  false  true  ../data/forcing/meteo/dummy_ts.dat
-rhum  false  true  ../data/forcing/meteo/dummy_ts.dat
+rhum  false  true  ../data/forcing/meteo/05_meteofill/out/HS/rhum_data.dat
 soilheat  false  true  ../data/forcing/meteo/05_meteofill/out/HS/soilheat_data.dat
 sundur  true  true  ../data/forcing/meteo/dummy_ts.dat
 temp_max  false  true  ../data/forcing/meteo/dummy_ts.dat

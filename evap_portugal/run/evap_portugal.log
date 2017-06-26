@@ -1,40 +1,40 @@
 UTC	event
-2017-06-21 11:06:45	Logging started.
-2017-06-21 11:06:45	Range checks in data access functions: DISABLED
-2017-06-21 11:06:45	Reading configuration data
-2017-06-21 11:06:45	Querying frequently used control data
-2017-06-21 11:06:45	Setting number of threads
-2017-06-21 11:06:45	Number of threads (if >=1 parallel objects): 1
-2017-06-21 11:06:45	Instantiating object groups
-2017-06-21 11:06:45	Instantiating objects
-2017-06-21 11:06:45	Initializing object outputs
-2017-06-21 11:06:45	Switching on debug mode for selected objects
-2017-06-21 11:06:45	Setting times of state output
-2017-06-21 11:06:45	Assigning simulated inputs to objects (object linkage)
-2017-06-21 11:06:45	Setting object levels
-2017-06-21 11:06:45	Setting up processing tree for selected objects
-2017-06-21 11:06:45	Levels for (optional) parallel processing: 2
-2017-06-21 11:06:45	Reading tables of individual parameter functions
-2017-06-21 11:06:45	Initializing individual parameter functions
-2017-06-21 11:06:45	Clearing tables of individual parameter functions
-2017-06-21 11:06:45	Reading tables of individual scalar parameters
-2017-06-21 11:06:45	Initializing individual scalar parameters
-2017-06-21 11:06:45	Clearing tables of individual scalar parameters
-2017-06-21 11:06:45	Setting shared parameter functions
-2017-06-21 11:06:45	Setting shared scalar parameters
-2017-06-21 11:06:45	Initializing time series of external variables
-2017-06-21 11:06:45	Assigning external time series to objects
-2017-06-21 11:06:45	Setting initial values of scalar state variables
-2017-06-21 11:06:45	Setting initial values of vector state variables
-2017-06-21 11:06:45	Initializing simulation time
-2017-06-21 11:06:45	Simulation started
-2017-06-21 11:06:45	01% done.  Computing time remaining: 0h 00m 00s 
-2017-06-21 11:06:45	02% done.  Computing time remaining: 0h 00m 00s 
-2017-06-21 11:06:45	05% done.  Computing time remaining: 0h 00m 00s 
-2017-06-21 11:06:45	10% done.  Computing time remaining: 0h 00m 00s 
-2017-06-21 11:06:45	20% done.  Computing time remaining: 0h 00m 00s 
-2017-06-21 11:06:45	50% done.  Computing time remaining: 0h 00m 00s 
-2017-06-21 11:06:45	Simulation finished
-2017-06-21 11:06:45	Closing output files
-2017-06-21 11:06:45	Final clean-up
-2017-06-21 11:06:45	Finished successfully after 00h 00m 00s (0s)
+2017-06-26 11:11:29	Logging started.
+2017-06-26 11:11:29	Range checks in data access functions: DISABLED
+2017-06-26 11:11:29	Reading configuration data
+2017-06-26 11:11:29	Querying frequently used control data
+2017-06-26 11:11:29	Setting number of threads
+2017-06-26 11:11:29	Number of threads (if >=1 parallel objects): 1
+2017-06-26 11:11:29	Instantiating object groups
+2017-06-26 11:11:29	Instantiating objects
+2017-06-26 11:11:29	Initializing object outputs
+2017-06-26 11:11:29	Switching on debug mode for selected objects
+2017-06-26 11:11:29	Setting times of state output
+2017-06-26 11:11:29	Assigning simulated inputs to objects (object linkage)
+2017-06-26 11:11:29	Setting object levels
+2017-06-26 11:11:29	Setting up processing tree for selected objects
+2017-06-26 11:11:29	Levels for (optional) parallel processing: 2
+2017-06-26 11:11:29	Reading tables of individual parameter functions
+2017-06-26 11:11:29	Initializing individual parameter functions
+2017-06-26 11:11:29	Clearing tables of individual parameter functions
+2017-06-26 11:11:29	Reading tables of individual scalar parameters
+2017-06-26 11:11:29	Initializing individual scalar parameters
+2017-06-26 11:11:29	Clearing tables of individual scalar parameters
+2017-06-26 11:11:29	Setting shared parameter functions
+2017-06-26 11:11:29	Setting shared scalar parameters
+2017-06-26 11:11:29	Initializing time series of external variables
+2017-06-26 11:11:29	Assigning external time series to objects
+2017-06-26 11:11:29	Setting initial values of scalar state variables
+2017-06-26 11:11:29	Setting initial values of vector state variables
+2017-06-26 11:11:29	Initializing simulation time
+2017-06-26 11:11:29	Simulation started
+2017-06-26 11:11:29	01% done.  Computing time remaining: 0h 00m 00s 
+2017-06-26 11:11:29	02% done.  Computing time remaining: 0h 00m 00s 
+2017-06-26 11:11:29	05% done.  Computing time remaining: 0h 00m 00s 
+2017-06-26 11:11:29	10% done.  Computing time remaining: 0h 00m 00s 
+2017-06-26 11:11:29	20% done.  Computing time remaining: 0h 00m 00s 
+2017-06-26 11:11:29	50% done.  Computing time remaining: 0h 00m 00s 
+2017-06-26 11:11:29	Simulation finished
+2017-06-26 11:11:29	Closing output files
+2017-06-26 11:11:29	Final clean-up
+2017-06-26 11:11:29	Finished successfully after 00h 00m 00s (0s)
