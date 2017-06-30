@@ -1,35 +1,35 @@
 UTC	event
-2017-06-21 10:25:01	Logging started.
-2017-06-21 10:25:01	Range checks in data access functions: DISABLED
-2017-06-21 10:25:01	Reading configuration data
-2017-06-21 10:25:01	Querying frequently used control data
-2017-06-21 10:25:01	Setting number of threads
-2017-06-21 10:25:01	Number of threads (if >=1 parallel objects): 1
-2017-06-21 10:25:01	Instantiating object groups
-2017-06-21 10:25:01	Instantiating objects
-2017-06-21 10:25:01	Initializing object outputs
-2017-06-21 10:25:01	Switching on debug mode for selected objects
-2017-06-21 10:25:01	Setting times of state output
-2017-06-21 10:25:01	Assigning simulated inputs to objects (object linkage)
-2017-06-21 10:25:01	Setting object levels
-2017-06-21 10:25:01	Setting up processing tree for selected objects
-2017-06-21 10:25:01	Levels for (optional) parallel processing: 2
-2017-06-21 10:25:01	Reading tables of individual parameter functions
-2017-06-21 10:25:01	Initializing individual parameter functions
-2017-06-21 10:25:01	Clearing tables of individual parameter functions
-2017-06-21 10:25:01	Reading tables of individual scalar parameters
-2017-06-21 10:25:01	Initializing individual scalar parameters
-2017-06-21 10:25:01	Clearing tables of individual scalar parameters
-2017-06-21 10:25:01	Setting shared parameter functions
-2017-06-21 10:25:01	Setting shared scalar parameters
-2017-06-21 10:25:01	Initializing time series of external variables
-2017-06-21 10:25:01	Assigning external time series to objects
-2017-06-21 10:25:01	Setting initial values of scalar state variables
-2017-06-21 10:25:01	Setting initial values of vector state variables
-2017-06-21 10:25:01	Initializing simulation time
-2017-06-21 10:25:01	Simulation started
-2017-06-21 10:25:01	01% done.  Computing time remaining: 0h 00m 00s 
-2017-06-21 10:25:01	02% done.  Computing time remaining: 0h 00m 00s 
-2017-06-21 10:25:01	05% done.  Computing time remaining: 0h 00m 00s 
-2017-06-21 10:25:01	10% done.  Computing time remaining: 0h 00m 00s 
-2017-06-21 10:25:01	Stopped due to exception. See traceback for details.
+2017-06-30 09:26:11	Logging started.
+2017-06-30 09:26:11	Range checks in data access functions: DISABLED
+2017-06-30 09:26:11	Reading configuration data
+2017-06-30 09:26:11	Querying frequently used control data
+2017-06-30 09:26:11	Setting number of threads
+2017-06-30 09:26:11	Number of threads (if >=1 parallel objects): 1
+2017-06-30 09:26:11	Instantiating object groups
+2017-06-30 09:26:11	Instantiating objects
+2017-06-30 09:26:11	Initializing object outputs
+2017-06-30 09:26:11	Switching on debug mode for selected objects
+2017-06-30 09:26:11	Setting times of state output
+2017-06-30 09:26:11	Assigning simulated inputs to objects (object linkage)
+2017-06-30 09:26:11	Setting object levels
+2017-06-30 09:26:11	Setting up processing tree for selected objects
+2017-06-30 09:26:11	Levels for (optional) parallel processing: 2
+2017-06-30 09:26:11	Reading tables of individual parameter functions
+2017-06-30 09:26:11	Initializing individual parameter functions
+2017-06-30 09:26:11	Clearing tables of individual parameter functions
+2017-06-30 09:26:11	Reading tables of individual scalar parameters
+2017-06-30 09:26:11	Initializing individual scalar parameters
+2017-06-30 09:26:11	Clearing tables of individual scalar parameters
+2017-06-30 09:26:11	Setting shared parameter functions
+2017-06-30 09:26:11	Setting shared scalar parameters
+2017-06-30 09:26:11	Initializing time series of external variables
+2017-06-30 09:26:11	Assigning external time series to objects
+2017-06-30 09:26:11	Setting initial values of scalar state variables
+2017-06-30 09:26:11	Setting initial values of vector state variables
+2017-06-30 09:26:11	Initializing simulation time
+2017-06-30 09:26:11	Simulation started
+2017-06-30 09:26:11	01% done.  Computing time remaining: 0h 00m 00s 
+2017-06-30 09:26:11	02% done.  Computing time remaining: 0h 00m 00s 
+2017-06-30 09:26:11	05% done.  Computing time remaining: 0h 00m 00s 
+2017-06-30 09:26:11	10% done.  Computing time remaining: 0h 00m 00s 
+2017-06-30 09:26:11	Stopped due to exception. See traceback for details.
