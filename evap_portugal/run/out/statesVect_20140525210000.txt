@@ -1,3 +1,0 @@
-# Values of vector state variables at: 2014-05-25 21:00:00
-object	variable	index	value
-none	none	none	none

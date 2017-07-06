@@ -8,6 +8,6 @@
 
 variable  sums  past  file
 
-doy  false  true  ../data/vegPar_time_series/tower/doy_data.dat
-hour  false  true  ../data/vegPar_time_series/tower/hour_data.dat
-utc_add  false  true  ../data/vegPar_time_series/tower/utc_add_data.dat
+doy  false  true  ../data/vegPar_time_series/HS/doy_data.dat
+hour  false  true  ../data/vegPar_time_series/HS/hour_data.dat
+utc_add  false  true  ../data/vegPar_time_series/HS/utc_add_data.dat
